@@ -30,6 +30,8 @@ class MongoSettings(BaseSettings):
     department_collections_point: str = "departments_point"
     province_collections_point: str = "provinces_point"
     district_collections_point: str = "districts_point"
+    eess_collections: str = "eess"
+    point_collections: str = "points"
 
     class Config(BaseSettings.Config):
         env_prefix = "MONGO_"

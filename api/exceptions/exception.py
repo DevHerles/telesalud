@@ -83,6 +83,16 @@ class DistrictNotFoundException(NotFoundException):
     message = "The district does not exist"
 
 
+class EessNotFoundException(NotFoundException):
+    """Error raised when a EESS does not exist"""
+    message = "The EESS does not exist"
+
+
+class PointNotFoundException(NotFoundException):
+    """Error raised when a Point does not exist"""
+    message = "The Point does not exist"
+
+
 class DepartmentAlreadyExistsException(AlreadyExistsException):
     """Error raised when a department already exists"""
     message = "The department already exists"

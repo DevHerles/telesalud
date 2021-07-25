@@ -1,0 +1,7490 @@
+[
+  {
+    "Total": 0,
+    "IdLocal": 0,
+    "Latitud": 0,
+    "Longitud": 0
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1,
+    "Latitud": -12.15793146,
+    "Longitud": -77.00025853
+  },
+  {
+    "Total": 0,
+    "IdLocal": 3,
+    "Latitud": -12.06833356,
+    "Longitud": -77.04138049
+  },
+  {
+    "Total": 0,
+    "IdLocal": 5,
+    "Latitud": -12.48286198,
+    "Longitud": -76.79618736
+  },
+  {
+    "Total": 0,
+    "IdLocal": 6,
+    "Latitud": -12.08438232,
+    "Longitud": -76.9573711
+  },
+  {
+    "Total": 0,
+    "IdLocal": 8,
+    "Latitud": -12.11358741,
+    "Longitud": -77.0332275
+  },
+  {
+    "Total": 0,
+    "IdLocal": 9,
+    "Latitud": -12.0083098,
+    "Longitud": -77.00355589
+  },
+  {
+    "Total": 0,
+    "IdLocal": 10,
+    "Latitud": -12.10009218,
+    "Longitud": -76.97147479
+  },
+  {
+    "Total": 0,
+    "IdLocal": 11,
+    "Latitud": -12.15947128,
+    "Longitud": -77.02243535
+  },
+  {
+    "Total": 0,
+    "IdLocal": 12,
+    "Latitud": -12.14208905,
+    "Longitud": -77.00274903
+  },
+  {
+    "Total": 0,
+    "IdLocal": 13,
+    "Latitud": -12.23631031,
+    "Longitud": -76.90904228
+  },
+  {
+    "Total": 0,
+    "IdLocal": 15,
+    "Latitud": -12.30014472,
+    "Longitud": -76.84696331
+  },
+  {
+    "Total": 0,
+    "IdLocal": 16,
+    "Latitud": -12.14874495,
+    "Longitud": -76.95263882
+  },
+  {
+    "Total": 0,
+    "IdLocal": 17,
+    "Latitud": -11.86565212,
+    "Longitud": -77.07684913
+  },
+  {
+    "Total": 0,
+    "IdLocal": 19,
+    "Latitud": -12.109031,
+    "Longitud": -77.006364
+  },
+  {
+    "Total": 0,
+    "IdLocal": 21,
+    "Latitud": -12.13806236,
+    "Longitud": -77.02349693
+  },
+  {
+    "Total": 0,
+    "IdLocal": 22,
+    "Latitud": -11.77447044,
+    "Longitud": -77.16752146
+  },
+  {
+    "Total": 0,
+    "IdLocal": 23,
+    "Latitud": -11.87113333,
+    "Longitud": -77.01774038
+  },
+  {
+    "Total": 0,
+    "IdLocal": 24,
+    "Latitud": -12.10989957,
+    "Longitud": -77.0526966
+  },
+  {
+    "Total": 0,
+    "IdLocal": 25,
+    "Latitud": -12.05578512,
+    "Longitud": -76.93608632
+  },
+  {
+    "Total": 0,
+    "IdLocal": 26,
+    "Latitud": -11.94148601,
+    "Longitud": -76.69588549
+  },
+  {
+    "Total": 0,
+    "IdLocal": 27,
+    "Latitud": -12.03422027,
+    "Longitud": -76.96525929
+  },
+  {
+    "Total": 0,
+    "IdLocal": 28,
+    "Latitud": -12.11406008,
+    "Longitud": -77.00999282
+  },
+  {
+    "Total": 0,
+    "IdLocal": 29,
+    "Latitud": -12.22964102,
+    "Longitud": -76.85622224
+  },
+  {
+    "Total": 0,
+    "IdLocal": 30,
+    "Latitud": -11.85739483,
+    "Longitud": -77.11957012
+  },
+  {
+    "Total": 0,
+    "IdLocal": 31,
+    "Latitud": -12.02854688,
+    "Longitud": -76.90850821
+  },
+  {
+    "Total": 0,
+    "IdLocal": 33,
+    "Latitud": -11.94841052,
+    "Longitud": -77.05932532
+  },
+  {
+    "Total": 0,
+    "IdLocal": 34,
+    "Latitud": -12.02699646,
+    "Longitud": -77.07476051
+  },
+  {
+    "Total": 0,
+    "IdLocal": 35,
+    "Latitud": -11.9782402,
+    "Longitud": -76.77858624
+  },
+  {
+    "Total": 0,
+    "IdLocal": 38,
+    "Latitud": -12.02586105,
+    "Longitud": -77.04082603
+  },
+  {
+    "Total": 0,
+    "IdLocal": 39,
+    "Latitud": -12.09740726,
+    "Longitud": -76.97812466
+  },
+  {
+    "Total": 0,
+    "IdLocal": 40,
+    "Latitud": -11.88799101,
+    "Longitud": -77.12832407
+  },
+  {
+    "Total": 0,
+    "IdLocal": 43,
+    "Latitud": -12.11181551,
+    "Longitud": -76.81624572
+  },
+  {
+    "Total": 0,
+    "IdLocal": 44,
+    "Latitud": -12.13889,
+    "Longitud": -76.987171
+  },
+  {
+    "Total": 0,
+    "IdLocal": 45,
+    "Latitud": -12.07200113,
+    "Longitud": -77.08688959
+  },
+  {
+    "Total": 0,
+    "IdLocal": 46,
+    "Latitud": -12.0083098,
+    "Longitud": -77.00355589
+  },
+  {
+    "Total": 0,
+    "IdLocal": 47,
+    "Latitud": -12.08034896,
+    "Longitud": -77.03650098
+  },
+  {
+    "Total": 0,
+    "IdLocal": 48,
+    "Latitud": -12.060463,
+    "Longitud": -77.140697
+  },
+  {
+    "Total": 0,
+    "IdLocal": 49,
+    "Latitud": -11.92383033,
+    "Longitud": -77.03848921
+  },
+  {
+    "Total": 0,
+    "IdLocal": 50,
+    "Latitud": -11.87604319,
+    "Longitud": -77.12699933
+  },
+  {
+    "Total": 0,
+    "IdLocal": 51,
+    "Latitud": -12.00761419,
+    "Longitud": -77.05895274
+  },
+  {
+    "Total": 0,
+    "IdLocal": 53,
+    "Latitud": -12.07660078,
+    "Longitud": -77.05772626
+  },
+  {
+    "Total": 0,
+    "IdLocal": 54,
+    "Latitud": -12.19994896,
+    "Longitud": -76.9577498
+  },
+  {
+    "Total": 0,
+    "IdLocal": 55,
+    "Latitud": -12.33750237,
+    "Longitud": -76.82598365
+  },
+  {
+    "Total": 0,
+    "IdLocal": 56,
+    "Latitud": -12.36373641,
+    "Longitud": -76.79585561
+  },
+  {
+    "Total": 0,
+    "IdLocal": 57,
+    "Latitud": -12.38724883,
+    "Longitud": -76.77716243
+  },
+  {
+    "Total": 0,
+    "IdLocal": 58,
+    "Latitud": -12.06277531,
+    "Longitud": -77.14913358
+  },
+  {
+    "Total": 0,
+    "IdLocal": 59,
+    "Latitud": -12.05670795,
+    "Longitud": -77.00814203
+  },
+  {
+    "Total": 0,
+    "IdLocal": 60,
+    "Latitud": -12.08775685,
+    "Longitud": -76.94416643
+  },
+  {
+    "Total": 0,
+    "IdLocal": 61,
+    "Latitud": -12.05617041,
+    "Longitud": -77.08423978
+  },
+  {
+    "Total": 0,
+    "IdLocal": 62,
+    "Latitud": -12.0796903,
+    "Longitud": -77.0035041
+  },
+  {
+    "Total": 0,
+    "IdLocal": 63,
+    "Latitud": -13.63363058,
+    "Longitud": -72.8718556
+  },
+  {
+    "Total": 0,
+    "IdLocal": 64,
+    "Latitud": -13.62895273,
+    "Longitud": -72.88429711
+  },
+  {
+    "Total": 0,
+    "IdLocal": 65,
+    "Latitud": -13.63094524,
+    "Longitud": -72.88222289
+  },
+  {
+    "Total": 0,
+    "IdLocal": 66,
+    "Latitud": -13.63583323,
+    "Longitud": -72.89444343
+  },
+  {
+    "Total": 0,
+    "IdLocal": 67,
+    "Latitud": -13.63795998,
+    "Longitud": -72.87449515
+  },
+  {
+    "Total": 0,
+    "IdLocal": 68,
+    "Latitud": -13.64399651,
+    "Longitud": -72.89240501
+  },
+  {
+    "Total": 0,
+    "IdLocal": 69,
+    "Latitud": -13.60649181,
+    "Longitud": -72.85833046
+  },
+  {
+    "Total": 0,
+    "IdLocal": 70,
+    "Latitud": -13.62139142,
+    "Longitud": -72.87352717
+  },
+  {
+    "Total": 0,
+    "IdLocal": 71,
+    "Latitud": -15.819886,
+    "Longitud": -70.029274
+  },
+  {
+    "Total": 0,
+    "IdLocal": 72,
+    "Latitud": -15.840344,
+    "Longitud": -70.02443
+  },
+  {
+    "Total": 0,
+    "IdLocal": 73,
+    "Latitud": -15.886258,
+    "Longitud": -69.935104
+  },
+  {
+    "Total": 0,
+    "IdLocal": 74,
+    "Latitud": -15.837834,
+    "Longitud": -70.032668
+  },
+  {
+    "Total": 0,
+    "IdLocal": 75,
+    "Latitud": -15.875515,
+    "Longitud": -69.99554
+  },
+  {
+    "Total": 0,
+    "IdLocal": 76,
+    "Latitud": -15.855837,
+    "Longitud": -70.00722
+  },
+  {
+    "Total": 0,
+    "IdLocal": 77,
+    "Latitud": -15.83823,
+    "Longitud": -70.02434
+  },
+  {
+    "Total": 0,
+    "IdLocal": 78,
+    "Latitud": -15.827142,
+    "Longitud": -70.03252
+  },
+  {
+    "Total": 0,
+    "IdLocal": 79,
+    "Latitud": -15.4900587,
+    "Longitud": -70.1452847
+  },
+  {
+    "Total": 0,
+    "IdLocal": 80,
+    "Latitud": -15.4824607,
+    "Longitud": -70.1194099
+  },
+  {
+    "Total": 0,
+    "IdLocal": 81,
+    "Latitud": -13.65654,
+    "Longitud": -73.38123
+  },
+  {
+    "Total": 0,
+    "IdLocal": 82,
+    "Latitud": -13.656645,
+    "Longitud": -73.379243
+  },
+  {
+    "Total": 0,
+    "IdLocal": 83,
+    "Latitud": -13.656361,
+    "Longitud": -73.385478
+  },
+  {
+    "Total": 0,
+    "IdLocal": 84,
+    "Latitud": -13.65794,
+    "Longitud": -73.386057
+  },
+  {
+    "Total": 0,
+    "IdLocal": 85,
+    "Latitud": -13.6567,
+    "Longitud": -73.3766
+  },
+  {
+    "Total": 0,
+    "IdLocal": 86,
+    "Latitud": -13.650542,
+    "Longitud": -73.360781
+  },
+  {
+    "Total": 0,
+    "IdLocal": 87,
+    "Latitud": -13.650792,
+    "Longitud": -73.367734
+  },
+  {
+    "Total": 0,
+    "IdLocal": 88,
+    "Latitud": -13.658816,
+    "Longitud": -73.43082
+  },
+  {
+    "Total": 0,
+    "IdLocal": 89,
+    "Latitud": -13.655862,
+    "Longitud": -73.421268
+  },
+  {
+    "Total": 0,
+    "IdLocal": 90,
+    "Latitud": -13.662029,
+    "Longitud": -73.397529
+  },
+  {
+    "Total": 0,
+    "IdLocal": 91,
+    "Latitud": -5.6405347,
+    "Longitud": -78.5238937
+  },
+  {
+    "Total": 0,
+    "IdLocal": 92,
+    "Latitud": -5.637175,
+    "Longitud": -78.5361572
+  },
+  {
+    "Total": 0,
+    "IdLocal": 93,
+    "Latitud": -5.6415082,
+    "Longitud": -78.5358376
+  },
+  {
+    "Total": 0,
+    "IdLocal": 94,
+    "Latitud": -6.2299351,
+    "Longitud": -77.8716744
+  },
+  {
+    "Total": 0,
+    "IdLocal": 95,
+    "Latitud": -6.2321899,
+    "Longitud": -77.8744676
+  },
+  {
+    "Total": 0,
+    "IdLocal": 96,
+    "Latitud": -6.2293898,
+    "Longitud": -77.8678429
+  },
+  {
+    "Total": 0,
+    "IdLocal": 97,
+    "Latitud": -6.2301849,
+    "Longitud": -77.8722147
+  },
+  {
+    "Total": 0,
+    "IdLocal": 98,
+    "Latitud": -6.2299351,
+    "Longitud": -77.8716745
+  },
+  {
+    "Total": 0,
+    "IdLocal": 99,
+    "Latitud": -6.2295148,
+    "Longitud": -77.8657029
+  },
+  {
+    "Total": 0,
+    "IdLocal": 100,
+    "Latitud": -6.2145312,
+    "Longitud": -77.8654251
+  },
+  {
+    "Total": 0,
+    "IdLocal": 101,
+    "Latitud": -6.2335356,
+    "Longitud": -77.8553538
+  },
+  {
+    "Total": 0,
+    "IdLocal": 102,
+    "Latitud": -4.5923,
+    "Longitud": -77.8758
+  },
+  {
+    "Total": 0,
+    "IdLocal": 103,
+    "Latitud": -4.6101,
+    "Longitud": -78.5355
+  },
+  {
+    "Total": 0,
+    "IdLocal": 104,
+    "Latitud": -4.9018,
+    "Longitud": -78.0369
+  },
+  {
+    "Total": 0,
+    "IdLocal": 105,
+    "Latitud": -4.83413493,
+    "Longitud": -77.94968267
+  },
+  {
+    "Total": 0,
+    "IdLocal": 106,
+    "Latitud": -4.71539445,
+    "Longitud": -78.05480089
+  },
+  {
+    "Total": 0,
+    "IdLocal": 107,
+    "Latitud": -4.5977,
+    "Longitud": -77.8618
+  },
+  {
+    "Total": 0,
+    "IdLocal": 108,
+    "Latitud": -4.5921,
+    "Longitud": -77.8638
+  },
+  {
+    "Total": 0,
+    "IdLocal": 109,
+    "Latitud": -6.2435558,
+    "Longitud": -77.8670226
+  },
+  {
+    "Total": 0,
+    "IdLocal": 110,
+    "Latitud": -6.1463204,
+    "Longitud": -77.9535449
+  },
+  {
+    "Total": 0,
+    "IdLocal": 111,
+    "Latitud": -6.1388389,
+    "Longitud": -77.9515602
+  },
+  {
+    "Total": 0,
+    "IdLocal": 112,
+    "Latitud": -6.3939,
+    "Longitud": -77.4865887
+  },
+  {
+    "Total": 0,
+    "IdLocal": 113,
+    "Latitud": -5.7586749,
+    "Longitud": -78.4617468
+  },
+  {
+    "Total": 0,
+    "IdLocal": 114,
+    "Latitud": -5.7639919,
+    "Longitud": -78.432292
+  },
+  {
+    "Total": 0,
+    "IdLocal": 115,
+    "Latitud": -5.7586749,
+    "Longitud": -78.4617468
+  },
+  {
+    "Total": 0,
+    "IdLocal": 116,
+    "Latitud": -5.7539496,
+    "Longitud": -78.4423546
+  },
+  {
+    "Total": 0,
+    "IdLocal": 117,
+    "Latitud": -13.63038833,
+    "Longitud": -74.142245
+  },
+  {
+    "Total": 0,
+    "IdLocal": 118,
+    "Latitud": -13.162441,
+    "Longitud": -74.199897
+  },
+  {
+    "Total": 0,
+    "IdLocal": 119,
+    "Latitud": -13.162139,
+    "Longitud": -74.210698
+  },
+  {
+    "Total": 0,
+    "IdLocal": 120,
+    "Latitud": -13.149851,
+    "Longitud": -74.227728
+  },
+  {
+    "Total": 0,
+    "IdLocal": 121,
+    "Latitud": -13.153746,
+    "Longitud": -74.223992
+  },
+  {
+    "Total": 0,
+    "IdLocal": 122,
+    "Latitud": -13.149808,
+    "Longitud": -74.223935
+  },
+  {
+    "Total": 0,
+    "IdLocal": 123,
+    "Latitud": -13.180507,
+    "Longitud": -74.220856
+  },
+  {
+    "Total": 0,
+    "IdLocal": 124,
+    "Latitud": -13.134276,
+    "Longitud": -74.23036
+  },
+  {
+    "Total": 0,
+    "IdLocal": 125,
+    "Latitud": -13.15675,
+    "Longitud": -74.216241
+  },
+  {
+    "Total": 0,
+    "IdLocal": 126,
+    "Latitud": -13.19199167,
+    "Longitud": -74.22400157
+  },
+  {
+    "Total": 0,
+    "IdLocal": 127,
+    "Latitud": -13.92375464,
+    "Longitud": -74.33578849
+  },
+  {
+    "Total": 0,
+    "IdLocal": 128,
+    "Latitud": -12.93687,
+    "Longitud": -74.244139
+  },
+  {
+    "Total": 0,
+    "IdLocal": 129,
+    "Latitud": -13.01310667,
+    "Longitud": -73.97698
+  },
+  {
+    "Total": 0,
+    "IdLocal": 130,
+    "Latitud": -14.68641667,
+    "Longitud": -74.11954333
+  },
+  {
+    "Total": 0,
+    "IdLocal": 131,
+    "Latitud": -14.68641667,
+    "Longitud": -74.11954333
+  },
+  {
+    "Total": 0,
+    "IdLocal": 132,
+    "Latitud": -14.68786996,
+    "Longitud": -74.12128138
+  },
+  {
+    "Total": 0,
+    "IdLocal": 133,
+    "Latitud": -14.00814,
+    "Longitud": -73.84390667
+  },
+  {
+    "Total": 0,
+    "IdLocal": 134,
+    "Latitud": -13.74943557,
+    "Longitud": -74.06702115
+  },
+  {
+    "Total": 0,
+    "IdLocal": 135,
+    "Latitud": -13.65732406,
+    "Longitud": -73.95321237
+  },
+  {
+    "Total": 0,
+    "IdLocal": 137,
+    "Latitud": -12.782758,
+    "Longitud": -74.981384
+  },
+  {
+    "Total": 0,
+    "IdLocal": 138,
+    "Latitud": -12.780081,
+    "Longitud": -74.990037
+  },
+  {
+    "Total": 0,
+    "IdLocal": 139,
+    "Latitud": -12.787558,
+    "Longitud": -74.966672
+  },
+  {
+    "Total": 0,
+    "IdLocal": 141,
+    "Latitud": -12.7800755,
+    "Longitud": -74.9667152
+  },
+  {
+    "Total": 0,
+    "IdLocal": 142,
+    "Latitud": -12.7871436,
+    "Longitud": -74.9727804
+  },
+  {
+    "Total": 0,
+    "IdLocal": 143,
+    "Latitud": -12.7863273,
+    "Longitud": -74.9768341
+  },
+  {
+    "Total": 0,
+    "IdLocal": 144,
+    "Latitud": -12.781151,
+    "Longitud": -74.97128
+  },
+  {
+    "Total": 0,
+    "IdLocal": 145,
+    "Latitud": -12.785233,
+    "Longitud": -74.984754
+  },
+  {
+    "Total": 0,
+    "IdLocal": 146,
+    "Latitud": -8.37719,
+    "Longitud": -74.5373
+  },
+  {
+    "Total": 0,
+    "IdLocal": 147,
+    "Latitud": -8.38671,
+    "Longitud": -74.55492
+  },
+  {
+    "Total": 0,
+    "IdLocal": 148,
+    "Latitud": -8.38183,
+    "Longitud": -74.52715
+  },
+  {
+    "Total": 0,
+    "IdLocal": 149,
+    "Latitud": -8.39838,
+    "Longitud": -74.53433
+  },
+  {
+    "Total": 0,
+    "IdLocal": 150,
+    "Latitud": -8.402197,
+    "Longitud": -74.548488
+  },
+  {
+    "Total": 0,
+    "IdLocal": 151,
+    "Latitud": -8.361984,
+    "Longitud": -74.578374
+  },
+  {
+    "Total": 0,
+    "IdLocal": 152,
+    "Latitud": -8.356122,
+    "Longitud": -74.59656
+  },
+  {
+    "Total": 0,
+    "IdLocal": 153,
+    "Latitud": -8.370616,
+    "Longitud": -74.56773
+  },
+  {
+    "Total": 0,
+    "IdLocal": 154,
+    "Latitud": -7.0619828,
+    "Longitud": -76.58990394
+  },
+  {
+    "Total": 0,
+    "IdLocal": 155,
+    "Latitud": -7.0516719,
+    "Longitud": -76.59433619
+  },
+  {
+    "Total": 0,
+    "IdLocal": 156,
+    "Latitud": -6.61611,
+    "Longitud": -76.6908
+  },
+  {
+    "Total": 0,
+    "IdLocal": 157,
+    "Latitud": -6.93688,
+    "Longitud": -76.77291492
+  },
+  {
+    "Total": 0,
+    "IdLocal": 158,
+    "Latitud": -6.42392888,
+    "Longitud": -76.508081
+  },
+  {
+    "Total": 0,
+    "IdLocal": 159,
+    "Latitud": -6.41792137,
+    "Longitud": -76.52804735
+  },
+  {
+    "Total": 0,
+    "IdLocal": 160,
+    "Latitud": -7.18007,
+    "Longitud": -76.7354
+  },
+  {
+    "Total": 0,
+    "IdLocal": 161,
+    "Latitud": -7.1802,
+    "Longitud": 76.7297
+  },
+  {
+    "Total": 0,
+    "IdLocal": 162,
+    "Latitud": -7.1795,
+    "Longitud": -76.7298
+  },
+  {
+    "Total": 0,
+    "IdLocal": 163,
+    "Latitud": -6.031349,
+    "Longitud": -76.97469
+  },
+  {
+    "Total": 0,
+    "IdLocal": 164,
+    "Latitud": -6.91213,
+    "Longitud": -76.33846
+  },
+  {
+    "Total": 0,
+    "IdLocal": 165,
+    "Latitud": -5.93978853,
+    "Longitud": -77.30956829
+  },
+  {
+    "Total": 0,
+    "IdLocal": 166,
+    "Latitud": -5.73870194,
+    "Longitud": -77.50413284
+  },
+  {
+    "Total": 0,
+    "IdLocal": 167,
+    "Latitud": -6.50656327,
+    "Longitud": -76.35655573
+  },
+  {
+    "Total": 0,
+    "IdLocal": 168,
+    "Latitud": -6.47921802,
+    "Longitud": -76.3784328
+  },
+  {
+    "Total": 0,
+    "IdLocal": 169,
+    "Latitud": -6.48931962,
+    "Longitud": -76.36619468
+  },
+  {
+    "Total": 0,
+    "IdLocal": 170,
+    "Latitud": -8.1880372,
+    "Longitud": -76.51317221
+  },
+  {
+    "Total": 0,
+    "IdLocal": 171,
+    "Latitud": -10.49073,
+    "Longitud": -76.51577
+  },
+  {
+    "Total": 0,
+    "IdLocal": 172,
+    "Latitud": -10.5722358,
+    "Longitud": -75.4080484
+  },
+  {
+    "Total": 0,
+    "IdLocal": 173,
+    "Latitud": -10.2699481,
+    "Longitud": -75.1335989
+  },
+  {
+    "Total": 0,
+    "IdLocal": 174,
+    "Latitud": -10.07169,
+    "Longitud": -75.550384
+  },
+  {
+    "Total": 0,
+    "IdLocal": 175,
+    "Latitud": -10.7297447,
+    "Longitud": -75.2646256
+  },
+  {
+    "Total": 0,
+    "IdLocal": 176,
+    "Latitud": -10.2975845,
+    "Longitud": -74.935861
+  },
+  {
+    "Total": 0,
+    "IdLocal": 177,
+    "Latitud": -10.68468,
+    "Longitud": -76.2538
+  },
+  {
+    "Total": 0,
+    "IdLocal": 178,
+    "Latitud": -10.63461,
+    "Longitud": -75.84874
+  },
+  {
+    "Total": 0,
+    "IdLocal": 179,
+    "Latitud": -10.44159,
+    "Longitud": -76.18988
+  },
+  {
+    "Total": 0,
+    "IdLocal": 180,
+    "Latitud": -10.77366,
+    "Longitud": -75.81155
+  },
+  {
+    "Total": 0,
+    "IdLocal": 181,
+    "Latitud": -10.67409,
+    "Longitud": -76.26697
+  },
+  {
+    "Total": 0,
+    "IdLocal": 182,
+    "Latitud": -10.66373,
+    "Longitud": -76.25505
+  },
+  {
+    "Total": 0,
+    "IdLocal": 183,
+    "Latitud": -5.24231,
+    "Longitud": -79.4496
+  },
+  {
+    "Total": 0,
+    "IdLocal": 184,
+    "Latitud": -5.10238933,
+    "Longitud": -80.17132401
+  },
+  {
+    "Total": 0,
+    "IdLocal": 185,
+    "Latitud": -5.17957,
+    "Longitud": -80.6189
+  },
+  {
+    "Total": 0,
+    "IdLocal": 186,
+    "Latitud": -5.26293,
+    "Longitud": -80.6703
+  },
+  {
+    "Total": 0,
+    "IdLocal": 187,
+    "Latitud": -5.18471,
+    "Longitud": -80.634
+  },
+  {
+    "Total": 0,
+    "IdLocal": 188,
+    "Latitud": -5.17662,
+    "Longitud": -80.6346
+  },
+  {
+    "Total": 0,
+    "IdLocal": 189,
+    "Latitud": -4.931994,
+    "Longitud": -80.344169
+  },
+  {
+    "Total": 0,
+    "IdLocal": 190,
+    "Latitud": -5.18469,
+    "Longitud": -80.6674
+  },
+  {
+    "Total": 0,
+    "IdLocal": 191,
+    "Latitud": -5.1681464,
+    "Longitud": -80.6659834
+  },
+  {
+    "Total": 0,
+    "IdLocal": 192,
+    "Latitud": -4.83970612,
+    "Longitud": -80.64875856
+  },
+  {
+    "Total": 0,
+    "IdLocal": 193,
+    "Latitud": -4.90788525,
+    "Longitud": -80.69445092
+  },
+  {
+    "Total": 0,
+    "IdLocal": 194,
+    "Latitud": -4.91040558,
+    "Longitud": -80.6825309
+  },
+  {
+    "Total": 0,
+    "IdLocal": 195,
+    "Latitud": -4.98526732,
+    "Longitud": -80.66054147
+  },
+  {
+    "Total": 0,
+    "IdLocal": 196,
+    "Latitud": -4.99856057,
+    "Longitud": -80.68672245
+  },
+  {
+    "Total": 0,
+    "IdLocal": 197,
+    "Latitud": -4.90597694,
+    "Longitud": -80.69098809
+  },
+  {
+    "Total": 0,
+    "IdLocal": 198,
+    "Latitud": -4.90437824,
+    "Longitud": -80.71075795
+  },
+  {
+    "Total": 0,
+    "IdLocal": 199,
+    "Latitud": -4.92498912,
+    "Longitud": -80.66025663
+  },
+  {
+    "Total": 0,
+    "IdLocal": 200,
+    "Latitud": -4.901691,
+    "Longitud": -80.678124
+  },
+  {
+    "Total": 0,
+    "IdLocal": 201,
+    "Latitud": -4.89004558,
+    "Longitud": -80.68740241
+  },
+  {
+    "Total": 0,
+    "IdLocal": 202,
+    "Latitud": -4.90783913,
+    "Longitud": -80.67667497
+  },
+  {
+    "Total": 0,
+    "IdLocal": 203,
+    "Latitud": -7.71414658,
+    "Longitud": -79.10748633
+  },
+  {
+    "Total": 0,
+    "IdLocal": 204,
+    "Latitud": -7.74614565,
+    "Longitud": -79.19173167
+  },
+  {
+    "Total": 0,
+    "IdLocal": 205,
+    "Latitud": -7.74390514,
+    "Longitud": -79.18802552
+  },
+  {
+    "Total": 0,
+    "IdLocal": 206,
+    "Latitud": -7.74768746,
+    "Longitud": -79.18946055
+  },
+  {
+    "Total": 0,
+    "IdLocal": 207,
+    "Latitud": -7.84423381,
+    "Longitud": -79.14445632
+  },
+  {
+    "Total": 0,
+    "IdLocal": 208,
+    "Latitud": -7.83840472,
+    "Longitud": -79.16212172
+  },
+  {
+    "Total": 0,
+    "IdLocal": 209,
+    "Latitud": -7.73248,
+    "Longitud": -79.00538
+  },
+  {
+    "Total": 0,
+    "IdLocal": 210,
+    "Latitud": -7.81042393,
+    "Longitud": -79.1995589
+  },
+  {
+    "Total": 0,
+    "IdLocal": 211,
+    "Latitud": -7.79252748,
+    "Longitud": -79.21999272
+  },
+  {
+    "Total": 0,
+    "IdLocal": 212,
+    "Latitud": -7.79328745,
+    "Longitud": -79.27398641
+  },
+  {
+    "Total": 0,
+    "IdLocal": 213,
+    "Latitud": -7.73660028,
+    "Longitud": -79.29681318
+  },
+  {
+    "Total": 0,
+    "IdLocal": 214,
+    "Latitud": -5.08614809,
+    "Longitud": -81.10968261
+  },
+  {
+    "Total": 0,
+    "IdLocal": 215,
+    "Latitud": -7.719147,
+    "Longitud": -79.35582984
+  },
+  {
+    "Total": 0,
+    "IdLocal": 216,
+    "Latitud": -7.68752661,
+    "Longitud": -79.37291482
+  },
+  {
+    "Total": 0,
+    "IdLocal": 217,
+    "Latitud": -7.72766053,
+    "Longitud": -79.31489644
+  },
+  {
+    "Total": 0,
+    "IdLocal": 218,
+    "Latitud": -7.92834542,
+    "Longitud": -79.20608823
+  },
+  {
+    "Total": 0,
+    "IdLocal": 219,
+    "Latitud": -7.96155979,
+    "Longitud": -79.23979816
+  },
+  {
+    "Total": 0,
+    "IdLocal": 220,
+    "Latitud": -7.89565895,
+    "Longitud": -79.22300737
+  },
+  {
+    "Total": 0,
+    "IdLocal": 221,
+    "Latitud": -8.08639785,
+    "Longitud": -79.00262118
+  },
+  {
+    "Total": 0,
+    "IdLocal": 222,
+    "Latitud": -8.07489255,
+    "Longitud": -79.00627661
+  },
+  {
+    "Total": 0,
+    "IdLocal": 223,
+    "Latitud": -8.07818843,
+    "Longitud": -79.01875019
+  },
+  {
+    "Total": 0,
+    "IdLocal": 224,
+    "Latitud": -8.08282274,
+    "Longitud": -79.02433076
+  },
+  {
+    "Total": 0,
+    "IdLocal": 225,
+    "Latitud": -8.08015747,
+    "Longitud": -79.12207972
+  },
+  {
+    "Total": 0,
+    "IdLocal": 226,
+    "Latitud": -8.02632065,
+    "Longitud": -79.06779048
+  },
+  {
+    "Total": 0,
+    "IdLocal": 227,
+    "Latitud": -8.07614025,
+    "Longitud": -79.05511035
+  },
+  {
+    "Total": 0,
+    "IdLocal": 228,
+    "Latitud": -8.05633492,
+    "Longitud": -79.05268865
+  },
+  {
+    "Total": 0,
+    "IdLocal": 229,
+    "Latitud": -8.05115677,
+    "Longitud": -79.0527066
+  },
+  {
+    "Total": 0,
+    "IdLocal": 230,
+    "Latitud": -8.07693189,
+    "Longitud": -79.04999635
+  },
+  {
+    "Total": 0,
+    "IdLocal": 231,
+    "Latitud": -8.091465,
+    "Longitud": -78.960333
+  },
+  {
+    "Total": 0,
+    "IdLocal": 232,
+    "Latitud": -8.98800646,
+    "Longitud": -78.96392121
+  },
+  {
+    "Total": 0,
+    "IdLocal": 233,
+    "Latitud": -8.17044266,
+    "Longitud": -79.00904936
+  },
+  {
+    "Total": 0,
+    "IdLocal": 234,
+    "Latitud": -8.22298606,
+    "Longitud": -78.974
+  },
+  {
+    "Total": 0,
+    "IdLocal": 235,
+    "Latitud": -8.11662793,
+    "Longitud": -79.04332734
+  },
+  {
+    "Total": 0,
+    "IdLocal": 236,
+    "Latitud": -8.09575504,
+    "Longitud": -79.01850924
+  },
+  {
+    "Total": 0,
+    "IdLocal": 237,
+    "Latitud": -8.12291311,
+    "Longitud": -79.02459572
+  },
+  {
+    "Total": 0,
+    "IdLocal": 238,
+    "Latitud": -8.10334556,
+    "Longitud": -79.02795601
+  },
+  {
+    "Total": 0,
+    "IdLocal": 239,
+    "Latitud": -8.11217443,
+    "Longitud": -79.0487836
+  },
+  {
+    "Total": 0,
+    "IdLocal": 240,
+    "Latitud": -8.12702081,
+    "Longitud": -79.03147426
+  },
+  {
+    "Total": 0,
+    "IdLocal": 241,
+    "Latitud": -8.13403239,
+    "Longitud": -79.03932479
+  },
+  {
+    "Total": 0,
+    "IdLocal": 242,
+    "Latitud": -8.14441039,
+    "Longitud": -79.05071788
+  },
+  {
+    "Total": 0,
+    "IdLocal": 243,
+    "Latitud": -8.13884426,
+    "Longitud": -79.05148296
+  },
+  {
+    "Total": 0,
+    "IdLocal": 244,
+    "Latitud": -12.04374386,
+    "Longitud": -76.94626406
+  },
+  {
+    "Total": 0,
+    "IdLocal": 245,
+    "Latitud": -12.05980543,
+    "Longitud": -77.10831315
+  },
+  {
+    "Total": 0,
+    "IdLocal": 246,
+    "Latitud": -11.98957989,
+    "Longitud": -77.05879467
+  },
+  {
+    "Total": 0,
+    "IdLocal": 247,
+    "Latitud": -12.05728714,
+    "Longitud": -77.03232955
+  },
+  {
+    "Total": 0,
+    "IdLocal": 248,
+    "Latitud": -12.1080212,
+    "Longitud": -77.05449962
+  },
+  {
+    "Total": 0,
+    "IdLocal": 249,
+    "Latitud": -11.970351714,
+    "Longitud": -77.001719363
+  },
+  {
+    "Total": 0,
+    "IdLocal": 250,
+    "Latitud": -12.16264321,
+    "Longitud": -76.9719422
+  },
+  {
+    "Total": 0,
+    "IdLocal": 251,
+    "Latitud": -12.18905949,
+    "Longitud": -76.96916413
+  },
+  {
+    "Total": 0,
+    "IdLocal": 252,
+    "Latitud": -12.14885948,
+    "Longitud": -76.99293476
+  },
+  {
+    "Total": 0,
+    "IdLocal": 253,
+    "Latitud": -9.53067108,
+    "Longitud": -77.52689945
+  },
+  {
+    "Total": 0,
+    "IdLocal": 254,
+    "Latitud": -9.53717739,
+    "Longitud": -77.52778509
+  },
+  {
+    "Total": 0,
+    "IdLocal": 255,
+    "Latitud": -9.5273156,
+    "Longitud": -77.52648854
+  },
+  {
+    "Total": 0,
+    "IdLocal": 256,
+    "Latitud": -9.52831699,
+    "Longitud": -77.53527791
+  },
+  {
+    "Total": 0,
+    "IdLocal": 257,
+    "Latitud": -9.53102582,
+    "Longitud": -77.52270435
+  },
+  {
+    "Total": 0,
+    "IdLocal": 258,
+    "Latitud": -9.51755841,
+    "Longitud": -77.52457101
+  },
+  {
+    "Total": 0,
+    "IdLocal": 259,
+    "Latitud": -9.49508143,
+    "Longitud": -77.53996966
+  },
+  {
+    "Total": 0,
+    "IdLocal": 260,
+    "Latitud": -9.5154781,
+    "Longitud": -77.53261695
+  },
+  {
+    "Total": 0,
+    "IdLocal": 261,
+    "Latitud": -9.09967302,
+    "Longitud": -78.56082036
+  },
+  {
+    "Total": 0,
+    "IdLocal": 262,
+    "Latitud": -9.07395394,
+    "Longitud": -78.57547666
+  },
+  {
+    "Total": 0,
+    "IdLocal": 263,
+    "Latitud": -9.0693773,
+    "Longitud": -78.58294254
+  },
+  {
+    "Total": 0,
+    "IdLocal": 264,
+    "Latitud": -9.13154275,
+    "Longitud": -78.5234325
+  },
+  {
+    "Total": 0,
+    "IdLocal": 265,
+    "Latitud": -9.12720487,
+    "Longitud": -78.52916537
+  },
+  {
+    "Total": 0,
+    "IdLocal": 266,
+    "Latitud": -9.11302933,
+    "Longitud": -78.53644274
+  },
+  {
+    "Total": 0,
+    "IdLocal": 267,
+    "Latitud": -9.11647695,
+    "Longitud": -78.50556971
+  },
+  {
+    "Total": 0,
+    "IdLocal": 268,
+    "Latitud": -9.12647146,
+    "Longitud": -78.53531176
+  },
+  {
+    "Total": 0,
+    "IdLocal": 269,
+    "Latitud": -16.4072601,
+    "Longitud": -71.52038619
+  },
+  {
+    "Total": 0,
+    "IdLocal": 270,
+    "Latitud": -16.352015,
+    "Longitud": -71.56631
+  },
+  {
+    "Total": 0,
+    "IdLocal": 271,
+    "Latitud": -16.32281874,
+    "Longitud": -71.59304658
+  },
+  {
+    "Total": 0,
+    "IdLocal": 272,
+    "Latitud": -16.377167,
+    "Longitud": -71.560806
+  },
+  {
+    "Total": 0,
+    "IdLocal": 273,
+    "Latitud": -16.394972,
+    "Longitud": -71.57736
+  },
+  {
+    "Total": 0,
+    "IdLocal": 274,
+    "Latitud": -16.32578,
+    "Longitud": -71.55591
+  },
+  {
+    "Total": 0,
+    "IdLocal": 275,
+    "Latitud": -16.393503,
+    "Longitud": -71.567192
+  },
+  {
+    "Total": 0,
+    "IdLocal": 276,
+    "Latitud": -16.43317777,
+    "Longitud": -71.52792718
+  },
+  {
+    "Total": 0,
+    "IdLocal": 277,
+    "Latitud": -16.42727559,
+    "Longitud": -71.52108264
+  },
+  {
+    "Total": 0,
+    "IdLocal": 278,
+    "Latitud": -16.415771,
+    "Longitud": -71.512674
+  },
+  {
+    "Total": 0,
+    "IdLocal": 279,
+    "Latitud": -16.417628,
+    "Longitud": -71.492632
+  },
+  {
+    "Total": 0,
+    "IdLocal": 280,
+    "Latitud": -16.412773,
+    "Longitud": -71.491481
+  },
+  {
+    "Total": 0,
+    "IdLocal": 281,
+    "Latitud": -16.433862,
+    "Longitud": -71.491225
+  },
+  {
+    "Total": 0,
+    "IdLocal": 282,
+    "Latitud": -16.412237,
+    "Longitud": -71.498803
+  },
+  {
+    "Total": 0,
+    "IdLocal": 283,
+    "Latitud": -16.417525,
+    "Longitud": -71.472184
+  },
+  {
+    "Total": 0,
+    "IdLocal": 284,
+    "Latitud": -16.424503,
+    "Longitud": -71.497225
+  },
+  {
+    "Total": 0,
+    "IdLocal": 285,
+    "Latitud": -13.516718,
+    "Longitud": -71.982168
+  },
+  {
+    "Total": 0,
+    "IdLocal": 286,
+    "Latitud": -13.52264,
+    "Longitud": -71.957258
+  },
+  {
+    "Total": 0,
+    "IdLocal": 287,
+    "Latitud": -13.549036,
+    "Longitud": -71.877903
+  },
+  {
+    "Total": 0,
+    "IdLocal": 288,
+    "Latitud": -13.533377,
+    "Longitud": -71.927303
+  },
+  {
+    "Total": 0,
+    "IdLocal": 289,
+    "Latitud": -13.527208,
+    "Longitud": -71.977375
+  },
+  {
+    "Total": 0,
+    "IdLocal": 290,
+    "Latitud": -13.529735,
+    "Longitud": -71.961957
+  },
+  {
+    "Total": 0,
+    "IdLocal": 291,
+    "Latitud": -13.536838,
+    "Longitud": -71.947781
+  },
+  {
+    "Total": 0,
+    "IdLocal": 292,
+    "Latitud": -13.521958,
+    "Longitud": -71.964836
+  },
+  {
+    "Total": 0,
+    "IdLocal": 293,
+    "Latitud": -14.07962398,
+    "Longitud": -75.7500497
+  },
+  {
+    "Total": 0,
+    "IdLocal": 294,
+    "Latitud": -14.05840993,
+    "Longitud": -75.73049986
+  },
+  {
+    "Total": 0,
+    "IdLocal": 295,
+    "Latitud": -14.03894264,
+    "Longitud": -75.73592942
+  },
+  {
+    "Total": 0,
+    "IdLocal": 296,
+    "Latitud": -14.094,
+    "Longitud": -75.7356
+  },
+  {
+    "Total": 0,
+    "IdLocal": 297,
+    "Latitud": -14.07723586,
+    "Longitud": -75.76638882
+  },
+  {
+    "Total": 0,
+    "IdLocal": 298,
+    "Latitud": -14.07802928,
+    "Longitud": -75.73141044
+  },
+  {
+    "Total": 0,
+    "IdLocal": 299,
+    "Latitud": -14.07464553,
+    "Longitud": -75.73402239
+  },
+  {
+    "Total": 0,
+    "IdLocal": 300,
+    "Latitud": -14.03724918,
+    "Longitud": -75.70258907
+  },
+  {
+    "Total": 0,
+    "IdLocal": 301,
+    "Latitud": -14.09356725,
+    "Longitud": -75.70221499
+  },
+  {
+    "Total": 0,
+    "IdLocal": 302,
+    "Latitud": -14.04816588,
+    "Longitud": -75.70763592
+  },
+  {
+    "Total": 0,
+    "IdLocal": 303,
+    "Latitud": -13.98881264,
+    "Longitud": -75.77239616
+  },
+  {
+    "Total": 0,
+    "IdLocal": 304,
+    "Latitud": -14.01317771,
+    "Longitud": -75.73689982
+  },
+  {
+    "Total": 0,
+    "IdLocal": 305,
+    "Latitud": -14.01974952,
+    "Longitud": -75.75741936
+  },
+  {
+    "Total": 0,
+    "IdLocal": 306,
+    "Latitud": -12.07777272,
+    "Longitud": -75.2108348
+  },
+  {
+    "Total": 0,
+    "IdLocal": 307,
+    "Latitud": -12.06570424,
+    "Longitud": -75.21398647
+  },
+  {
+    "Total": 0,
+    "IdLocal": 308,
+    "Latitud": -12.05262921,
+    "Longitud": -75.22890758
+  },
+  {
+    "Total": 0,
+    "IdLocal": 309,
+    "Latitud": -12.07473142,
+    "Longitud": -75.21419736
+  },
+  {
+    "Total": 0,
+    "IdLocal": 310,
+    "Latitud": -10.75451,
+    "Longitud": -77.76354
+  },
+  {
+    "Total": 0,
+    "IdLocal": 311,
+    "Latitud": -10.74554,
+    "Longitud": -77.75815
+  },
+  {
+    "Total": 0,
+    "IdLocal": 312,
+    "Latitud": -10.7559,
+    "Longitud": -77.7639
+  },
+  {
+    "Total": 0,
+    "IdLocal": 313,
+    "Latitud": -11.495577,
+    "Longitud": -77.209441
+  },
+  {
+    "Total": 0,
+    "IdLocal": 314,
+    "Latitud": -11.496574,
+    "Longitud": -77.216209
+  },
+  {
+    "Total": 0,
+    "IdLocal": 315,
+    "Latitud": -11.493961,
+    "Longitud": -77.198614
+  },
+  {
+    "Total": 0,
+    "IdLocal": 316,
+    "Latitud": -11.1022896,
+    "Longitud": -77.6054335
+  },
+  {
+    "Total": 0,
+    "IdLocal": 317,
+    "Latitud": -11.12391451,
+    "Longitud": -77.61024157
+  },
+  {
+    "Total": 0,
+    "IdLocal": 318,
+    "Latitud": -12.5994956,
+    "Longitud": -69.18587032
+  },
+  {
+    "Total": 0,
+    "IdLocal": 319,
+    "Latitud": -12.58582006,
+    "Longitud": -69.1895521
+  },
+  {
+    "Total": 0,
+    "IdLocal": 320,
+    "Latitud": -12.60235905,
+    "Longitud": -69.21254726
+  },
+  {
+    "Total": 0,
+    "IdLocal": 321,
+    "Latitud": -12.59449211,
+    "Longitud": -69.19883717
+  },
+  {
+    "Total": 0,
+    "IdLocal": 322,
+    "Latitud": -17.6386,
+    "Longitud": -71.3393
+  },
+  {
+    "Total": 0,
+    "IdLocal": 323,
+    "Latitud": -17.638276,
+    "Longitud": -71.339376
+  },
+  {
+    "Total": 0,
+    "IdLocal": 324,
+    "Latitud": -17.63553,
+    "Longitud": -71.33846
+  },
+  {
+    "Total": 0,
+    "IdLocal": 325,
+    "Latitud": -17.18618,
+    "Longitud": -70.92973
+  },
+  {
+    "Total": 0,
+    "IdLocal": 326,
+    "Latitud": -17.18683,
+    "Longitud": -70.93169
+  },
+  {
+    "Total": 0,
+    "IdLocal": 327,
+    "Latitud": -10.12067915,
+    "Longitud": -76.20585984
+  },
+  {
+    "Total": 0,
+    "IdLocal": 328,
+    "Latitud": -9.82861,
+    "Longitud": -76.8014
+  },
+  {
+    "Total": 0,
+    "IdLocal": 329,
+    "Latitud": -9.35157,
+    "Longitud": -77.1767
+  },
+  {
+    "Total": 0,
+    "IdLocal": 330,
+    "Latitud": -9.8955,
+    "Longitud": -75.9957
+  },
+  {
+    "Total": 0,
+    "IdLocal": 331,
+    "Latitud": -9.9485189,
+    "Longitud": -76.25019307
+  },
+  {
+    "Total": 0,
+    "IdLocal": 332,
+    "Latitud": -10.0734616,
+    "Longitud": -76.63145679
+  },
+  {
+    "Total": 0,
+    "IdLocal": 333,
+    "Latitud": -9.9840424,
+    "Longitud": -76.688915
+  },
+  {
+    "Total": 0,
+    "IdLocal": 334,
+    "Latitud": -9.276384,
+    "Longitud": -76.005789
+  },
+  {
+    "Total": 0,
+    "IdLocal": 335,
+    "Latitud": -9.27833,
+    "Longitud": -76.00912
+  },
+  {
+    "Total": 0,
+    "IdLocal": 336,
+    "Latitud": -8.93273,
+    "Longitud": -76.11724
+  },
+  {
+    "Total": 0,
+    "IdLocal": 337,
+    "Latitud": -9.305583,
+    "Longitud": -76.002472
+  },
+  {
+    "Total": 0,
+    "IdLocal": 338,
+    "Latitud": -9.299466,
+    "Longitud": -75.999506
+  },
+  {
+    "Total": 0,
+    "IdLocal": 339,
+    "Latitud": -9.287451,
+    "Longitud": -75.975052
+  },
+  {
+    "Total": 0,
+    "IdLocal": 340,
+    "Latitud": -9.08957,
+    "Longitud": -76.094904
+  },
+  {
+    "Total": 0,
+    "IdLocal": 341,
+    "Latitud": -8.49485196,
+    "Longitud": -76.38590687
+  },
+  {
+    "Total": 0,
+    "IdLocal": 342,
+    "Latitud": -9.9095,
+    "Longitud": -76.018
+  },
+  {
+    "Total": 0,
+    "IdLocal": 343,
+    "Latitud": -9.67,
+    "Longitud": -75.4631
+  },
+  {
+    "Total": 0,
+    "IdLocal": 344,
+    "Latitud": -3.77352,
+    "Longitud": -73.29051
+  },
+  {
+    "Total": 0,
+    "IdLocal": 345,
+    "Latitud": -3.76189,
+    "Longitud": -73.26149
+  },
+  {
+    "Total": 0,
+    "IdLocal": 346,
+    "Latitud": -3.748285,
+    "Longitud": -73.251739
+  },
+  {
+    "Total": 0,
+    "IdLocal": 347,
+    "Latitud": -3.72568,
+    "Longitud": -73.23837
+  },
+  {
+    "Total": 0,
+    "IdLocal": 348,
+    "Latitud": -3.734181,
+    "Longitud": -7.3251739
+  },
+  {
+    "Total": 0,
+    "IdLocal": 349,
+    "Latitud": -3.72662,
+    "Longitud": -73.25411
+  },
+  {
+    "Total": 0,
+    "IdLocal": 350,
+    "Latitud": -3.60426419,
+    "Longitud": -80.4827921
+  },
+  {
+    "Total": 0,
+    "IdLocal": 351,
+    "Latitud": -3.63801749,
+    "Longitud": -80.59983037
+  },
+  {
+    "Total": 0,
+    "IdLocal": 352,
+    "Latitud": -3.62636607,
+    "Longitud": -80.43444812
+  },
+  {
+    "Total": 0,
+    "IdLocal": 353,
+    "Latitud": -3.57114869,
+    "Longitud": -80.45936107
+  },
+  {
+    "Total": 0,
+    "IdLocal": 354,
+    "Latitud": -3.56117861,
+    "Longitud": -80.42680987
+  },
+  {
+    "Total": 0,
+    "IdLocal": 355,
+    "Latitud": -3.55650956,
+    "Longitud": -80.42711589
+  },
+  {
+    "Total": 0,
+    "IdLocal": 356,
+    "Latitud": -3.55623443,
+    "Longitud": -80.44398073
+  },
+  {
+    "Total": 0,
+    "IdLocal": 357,
+    "Latitud": -3.50294762,
+    "Longitud": -80.39171338
+  },
+  {
+    "Total": 0,
+    "IdLocal": 358,
+    "Latitud": -3.52547613,
+    "Longitud": -80.23882233
+  },
+  {
+    "Total": 0,
+    "IdLocal": 359,
+    "Latitud": -3.48611612,
+    "Longitud": -80.26090566
+  },
+  {
+    "Total": 0,
+    "IdLocal": 360,
+    "Latitud": -3.50394191,
+    "Longitud": -80.22602281
+  },
+  {
+    "Total": 0,
+    "IdLocal": 361,
+    "Latitud": -3.50883484,
+    "Longitud": -80.24143361
+  },
+  {
+    "Total": 0,
+    "IdLocal": 362,
+    "Latitud": -3.50192254,
+    "Longitud": -80.27661418
+  },
+  {
+    "Total": 0,
+    "IdLocal": 363,
+    "Latitud": -6.7197666,
+    "Longitud": -79.9080757
+  },
+  {
+    "Total": 0,
+    "IdLocal": 364,
+    "Latitud": -6.7371228,
+    "Longitud": -79.8906072
+  },
+  {
+    "Total": 0,
+    "IdLocal": 365,
+    "Latitud": -6.7693944,
+    "Longitud": -79.866649
+  },
+  {
+    "Total": 0,
+    "IdLocal": 366,
+    "Latitud": -6.735331,
+    "Longitud": -79.8930778
+  },
+  {
+    "Total": 0,
+    "IdLocal": 367,
+    "Latitud": -6.7197666,
+    "Longitud": -79.9080757
+  },
+  {
+    "Total": 0,
+    "IdLocal": 368,
+    "Latitud": -6.7197666,
+    "Longitud": -79.9080757
+  },
+  {
+    "Total": 0,
+    "IdLocal": 369,
+    "Latitud": -6.7111897,
+    "Longitud": -79.9056365
+  },
+  {
+    "Total": 0,
+    "IdLocal": 370,
+    "Latitud": -6.7011827,
+    "Longitud": -79.9030632
+  },
+  {
+    "Total": 0,
+    "IdLocal": 372,
+    "Latitud": -7616079,
+    "Longitud": -78.049183
+  },
+  {
+    "Total": 0,
+    "IdLocal": 373,
+    "Latitud": -7.626527,
+    "Longitud": -78.047626
+  },
+  {
+    "Total": 0,
+    "IdLocal": 374,
+    "Latitud": -6.863859,
+    "Longitud": -78.14189
+  },
+  {
+    "Total": 0,
+    "IdLocal": 375,
+    "Latitud": -6.86833315,
+    "Longitud": -78.14225238
+  },
+  {
+    "Total": 0,
+    "IdLocal": 376,
+    "Latitud": -6.379656,
+    "Longitud": -78.813717
+  },
+  {
+    "Total": 0,
+    "IdLocal": 377,
+    "Latitud": -6.389751,
+    "Longitud": -78.817388
+  },
+  {
+    "Total": 0,
+    "IdLocal": 378,
+    "Latitud": -5.70746588,
+    "Longitud": -78.81735276
+  },
+  {
+    "Total": 0,
+    "IdLocal": 379,
+    "Latitud": -5.69519003,
+    "Longitud": -78.80832461
+  },
+  {
+    "Total": 0,
+    "IdLocal": 380,
+    "Latitud": -5.70857266,
+    "Longitud": -78.81437671
+  },
+  {
+    "Total": 0,
+    "IdLocal": 381,
+    "Latitud": -5.71490127,
+    "Longitud": -78.80921569
+  },
+  {
+    "Total": 0,
+    "IdLocal": 382,
+    "Latitud": -5.72003743,
+    "Longitud": -78.80140981
+  },
+  {
+    "Total": 0,
+    "IdLocal": 383,
+    "Latitud": -5.71447681,
+    "Longitud": -78.80295977
+  },
+  {
+    "Total": 0,
+    "IdLocal": 384,
+    "Latitud": -5.7041135,
+    "Longitud": -78.80162904
+  },
+  {
+    "Total": 0,
+    "IdLocal": 385,
+    "Latitud": -5.71573563,
+    "Longitud": -78.80556325
+  },
+  {
+    "Total": 0,
+    "IdLocal": 387,
+    "Latitud": -6.59861,
+    "Longitud": -78.652481
+  },
+  {
+    "Total": 0,
+    "IdLocal": 388,
+    "Latitud": -5.715004,
+    "Longitud": -78.796257
+  },
+  {
+    "Total": 0,
+    "IdLocal": 389,
+    "Latitud": -5.746612,
+    "Longitud": -78.78926
+  },
+  {
+    "Total": 0,
+    "IdLocal": 391,
+    "Latitud": -9.93137462,
+    "Longitud": -76.24976764
+  },
+  {
+    "Total": 0,
+    "IdLocal": 392,
+    "Latitud": -11.06018,
+    "Longitud": -75.3356505
+  },
+  {
+    "Total": 0,
+    "IdLocal": 393,
+    "Latitud": -11.07217,
+    "Longitud": -75.33926
+  },
+  {
+    "Total": 0,
+    "IdLocal": 394,
+    "Latitud": -10.9265815,
+    "Longitud": -74.8767432
+  },
+  {
+    "Total": 0,
+    "IdLocal": 395,
+    "Latitud": -10.944035,
+    "Longitud": -75.226029
+  },
+  {
+    "Total": 0,
+    "IdLocal": 396,
+    "Latitud": -10.9284252,
+    "Longitud": -74.8755574
+  },
+  {
+    "Total": 0,
+    "IdLocal": 397,
+    "Latitud": -11.125853,
+    "Longitud": -75.360088
+  },
+  {
+    "Total": 0,
+    "IdLocal": 398,
+    "Latitud": -12.060299,
+    "Longitud": -75.289296
+  },
+  {
+    "Total": 0,
+    "IdLocal": 399,
+    "Latitud": -12.081613,
+    "Longitud": -75.242541
+  },
+  {
+    "Total": 0,
+    "IdLocal": 400,
+    "Latitud": -12.104942,
+    "Longitud": -75.247905
+  },
+  {
+    "Total": 0,
+    "IdLocal": 401,
+    "Latitud": -11.781808,
+    "Longitud": -75.495108
+  },
+  {
+    "Total": 0,
+    "IdLocal": 402,
+    "Latitud": -11.777113,
+    "Longitud": -75.496831
+  },
+  {
+    "Total": 0,
+    "IdLocal": 403,
+    "Latitud": -11.793656,
+    "Longitud": -75.484621
+  },
+  {
+    "Total": 0,
+    "IdLocal": 404,
+    "Latitud": -11.780757,
+    "Longitud": -75.499816
+  },
+  {
+    "Total": 0,
+    "IdLocal": 405,
+    "Latitud": -11.253396,
+    "Longitud": -74.6374927
+  },
+  {
+    "Total": 0,
+    "IdLocal": 406,
+    "Latitud": -11.5170082,
+    "Longitud": -75.9023733
+  },
+  {
+    "Total": 0,
+    "IdLocal": 407,
+    "Latitud": -11.5273109,
+    "Longitud": -75.917826
+  },
+  {
+    "Total": 0,
+    "IdLocal": 408,
+    "Latitud": -11.5395668,
+    "Longitud": -75.9289568
+  },
+  {
+    "Total": 0,
+    "IdLocal": 409,
+    "Latitud": -11.0017,
+    "Longitud": -76.36347
+  },
+  {
+    "Total": 0,
+    "IdLocal": 410,
+    "Latitud": -4.64022468,
+    "Longitud": -79.71526757
+  },
+  {
+    "Total": 0,
+    "IdLocal": 411,
+    "Latitud": -5.14909806,
+    "Longitud": -79.42933669
+  },
+  {
+    "Total": 0,
+    "IdLocal": 412,
+    "Latitud": -5.33933844,
+    "Longitud": -79.42861257
+  },
+  {
+    "Total": 0,
+    "IdLocal": 413,
+    "Latitud": -5.06035503,
+    "Longitud": -80.13698238
+  },
+  {
+    "Total": 0,
+    "IdLocal": 414,
+    "Latitud": -5.14289985,
+    "Longitud": -80.10803462
+  },
+  {
+    "Total": 0,
+    "IdLocal": 415,
+    "Latitud": -5.03444876,
+    "Longitud": -80.18973034
+  },
+  {
+    "Total": 0,
+    "IdLocal": 416,
+    "Latitud": -5.09311511,
+    "Longitud": -80.1581385
+  },
+  {
+    "Total": 0,
+    "IdLocal": 417,
+    "Latitud": -5.00782453,
+    "Longitud": -80.22405087
+  },
+  {
+    "Total": 0,
+    "IdLocal": 418,
+    "Latitud": -5.0943116,
+    "Longitud": -80.20037679
+  },
+  {
+    "Total": 0,
+    "IdLocal": 419,
+    "Latitud": -5.16900401,
+    "Longitud": -80.18546832
+  },
+  {
+    "Total": 0,
+    "IdLocal": 420,
+    "Latitud": -5.10363483,
+    "Longitud": -81.10814307
+  },
+  {
+    "Total": 0,
+    "IdLocal": 421,
+    "Latitud": -5.08624961,
+    "Longitud": -81.10978614
+  },
+  {
+    "Total": 0,
+    "IdLocal": 422,
+    "Latitud": -5.09710483,
+    "Longitud": -81.10499827
+  },
+  {
+    "Total": 0,
+    "IdLocal": 423,
+    "Latitud": -5.21790919,
+    "Longitud": -80.62540247
+  },
+  {
+    "Total": 0,
+    "IdLocal": 424,
+    "Latitud": -5.23589585,
+    "Longitud": -80.65994588
+  },
+  {
+    "Total": 0,
+    "IdLocal": 425,
+    "Latitud": -5.34333283,
+    "Longitud": -80.70595759
+  },
+  {
+    "Total": 0,
+    "IdLocal": 426,
+    "Latitud": -5.3805383,
+    "Longitud": -80.69430109
+  },
+  {
+    "Total": 0,
+    "IdLocal": 427,
+    "Latitud": -5.32204627,
+    "Longitud": -80.75361385
+  },
+  {
+    "Total": 0,
+    "IdLocal": 428,
+    "Latitud": -5.40201726,
+    "Longitud": -80.74040745
+  },
+  {
+    "Total": 0,
+    "IdLocal": 429,
+    "Latitud": -5.40098244,
+    "Longitud": -80.74631454
+  },
+  {
+    "Total": 0,
+    "IdLocal": 430,
+    "Latitud": -4.92272673,
+    "Longitud": -80.33636547
+  },
+  {
+    "Total": 0,
+    "IdLocal": 432,
+    "Latitud": -4.90905433,
+    "Longitud": -80.72281425
+  },
+  {
+    "Total": 0,
+    "IdLocal": 433,
+    "Latitud": -4.59429025,
+    "Longitud": -81.25810941
+  },
+  {
+    "Total": 0,
+    "IdLocal": 434,
+    "Latitud": -4.58812912,
+    "Longitud": -81.27304818
+  },
+  {
+    "Total": 0,
+    "IdLocal": 435,
+    "Latitud": -4.58038055,
+    "Longitud": -81.27192471
+  },
+  {
+    "Total": 0,
+    "IdLocal": 436,
+    "Latitud": -4.58890437,
+    "Longitud": -81.17539807
+  },
+  {
+    "Total": 0,
+    "IdLocal": 437,
+    "Latitud": 0,
+    "Longitud": 0
+  },
+  {
+    "Total": 0,
+    "IdLocal": 438,
+    "Latitud": 0,
+    "Longitud": 0
+  },
+  {
+    "Total": 0,
+    "IdLocal": 439,
+    "Latitud": 0,
+    "Longitud": 0
+  },
+  {
+    "Total": 0,
+    "IdLocal": 440,
+    "Latitud": 0,
+    "Longitud": 0
+  },
+  {
+    "Total": 0,
+    "IdLocal": 441,
+    "Latitud": -17.9898229,
+    "Longitud": -70.2421332
+  },
+  {
+    "Total": 0,
+    "IdLocal": 442,
+    "Latitud": -17.9943002,
+    "Longitud": -70.2183698
+  },
+  {
+    "Total": 0,
+    "IdLocal": 443,
+    "Latitud": -18.0315645,
+    "Longitud": -70.2687728
+  },
+  {
+    "Total": 0,
+    "IdLocal": 444,
+    "Latitud": -18.0052828,
+    "Longitud": -70.2510685
+  },
+  {
+    "Total": 0,
+    "IdLocal": 445,
+    "Latitud": -5.6389831,
+    "Longitud": -78.5294067
+  },
+  {
+    "Total": 0,
+    "IdLocal": 446,
+    "Latitud": -4.3829,
+    "Longitud": -78.3088
+  },
+  {
+    "Total": 0,
+    "IdLocal": 447,
+    "Latitud": -4.1891,
+    "Longitud": -78.2771
+  },
+  {
+    "Total": 0,
+    "IdLocal": 448,
+    "Latitud": -3.5249,
+    "Longitud": -77.7716
+  },
+  {
+    "Total": 0,
+    "IdLocal": 449,
+    "Latitud": -3.4029,
+    "Longitud": -77.8431
+  },
+  {
+    "Total": 0,
+    "IdLocal": 450,
+    "Latitud": -3.9822,
+    "Longitud": -78.1162
+  },
+  {
+    "Total": 0,
+    "IdLocal": 451,
+    "Latitud": -4.057588,
+    "Longitud": -77.7674896
+  },
+  {
+    "Total": 0,
+    "IdLocal": 452,
+    "Latitud": -6.39509801,
+    "Longitud": -77.48491462
+  },
+  {
+    "Total": 0,
+    "IdLocal": 453,
+    "Latitud": -5.90782105,
+    "Longitud": -78.44785281
+  },
+  {
+    "Total": 0,
+    "IdLocal": 454,
+    "Latitud": -5.8956467,
+    "Longitud": -78.3096018
+  },
+  {
+    "Total": 0,
+    "IdLocal": 455,
+    "Latitud": -5.881678,
+    "Longitud": -78.4488687
+  },
+  {
+    "Total": 0,
+    "IdLocal": 456,
+    "Latitud": -5.8594293,
+    "Longitud": -78.3683355
+  },
+  {
+    "Total": 0,
+    "IdLocal": 457,
+    "Latitud": -5.7227442,
+    "Longitud": -78.28330747
+  },
+  {
+    "Total": 0,
+    "IdLocal": 458,
+    "Latitud": -5.7324587,
+    "Longitud": -78.4276132
+  },
+  {
+    "Total": 0,
+    "IdLocal": 459,
+    "Latitud": -5.7522328,
+    "Longitud": -78.4273241
+  },
+  {
+    "Total": 0,
+    "IdLocal": 460,
+    "Latitud": -5.7370258,
+    "Longitud": -78.4257048
+  },
+  {
+    "Total": 0,
+    "IdLocal": 461,
+    "Latitud": -5.754629,
+    "Longitud": -78.255357
+  },
+  {
+    "Total": 0,
+    "IdLocal": 462,
+    "Latitud": -5.9358136,
+    "Longitud": -78.6645672
+  },
+  {
+    "Total": 0,
+    "IdLocal": 463,
+    "Latitud": -6.0131227,
+    "Longitud": -78.4941082
+  },
+  {
+    "Total": 0,
+    "IdLocal": 464,
+    "Latitud": -5.9264233,
+    "Longitud": -78.5254767
+  },
+  {
+    "Total": 0,
+    "IdLocal": 465,
+    "Latitud": -5.6374216,
+    "Longitud": -78.5623594
+  },
+  {
+    "Total": 0,
+    "IdLocal": 466,
+    "Latitud": -5.8631176,
+    "Longitud": -78.2584898
+  },
+  {
+    "Total": 0,
+    "IdLocal": 467,
+    "Latitud": -6.09625678,
+    "Longitud": -78.42137991
+  },
+  {
+    "Total": 0,
+    "IdLocal": 468,
+    "Latitud": -5.999551,
+    "Longitud": -78.5374209
+  },
+  {
+    "Total": 0,
+    "IdLocal": 469,
+    "Latitud": -16.37645866,
+    "Longitud": -71.54470192
+  },
+  {
+    "Total": 0,
+    "IdLocal": 470,
+    "Latitud": -16.33789303,
+    "Longitud": -71.55256807
+  },
+  {
+    "Total": 0,
+    "IdLocal": 471,
+    "Latitud": -16.33070982,
+    "Longitud": -71.53732361
+  },
+  {
+    "Total": 0,
+    "IdLocal": 472,
+    "Latitud": -16.35099859,
+    "Longitud": -71.54327314
+  },
+  {
+    "Total": 0,
+    "IdLocal": 473,
+    "Latitud": -16.34796161,
+    "Longitud": -71.55518352
+  },
+  {
+    "Total": 0,
+    "IdLocal": 474,
+    "Latitud": -16.35265471,
+    "Longitud": -71.5499512
+  },
+  {
+    "Total": 0,
+    "IdLocal": 475,
+    "Latitud": -16.40285855,
+    "Longitud": -71.49542524
+  },
+  {
+    "Total": 0,
+    "IdLocal": 476,
+    "Latitud": -16.40278201,
+    "Longitud": -71.51174259
+  },
+  {
+    "Total": 0,
+    "IdLocal": 477,
+    "Latitud": -16.40165587,
+    "Longitud": -71.48889109
+  },
+  {
+    "Total": 0,
+    "IdLocal": 478,
+    "Latitud": -16.39856632,
+    "Longitud": -71.49402453
+  },
+  {
+    "Total": 0,
+    "IdLocal": 479,
+    "Latitud": -16.40399421,
+    "Longitud": -71.50963632
+  },
+  {
+    "Total": 0,
+    "IdLocal": 480,
+    "Latitud": -16.38695857,
+    "Longitud": -71.51272992
+  },
+  {
+    "Total": 0,
+    "IdLocal": 481,
+    "Latitud": -16.38047522,
+    "Longitud": -71.50900045
+  },
+  {
+    "Total": 0,
+    "IdLocal": 482,
+    "Latitud": -16.37445041,
+    "Longitud": -71.50436688
+  },
+  {
+    "Total": 0,
+    "IdLocal": 483,
+    "Latitud": -16.39454294,
+    "Longitud": -71.52209738
+  },
+  {
+    "Total": 0,
+    "IdLocal": 484,
+    "Latitud": -16.45685754,
+    "Longitud": -71.51788142
+  },
+  {
+    "Total": 0,
+    "IdLocal": 485,
+    "Latitud": -16.48748885,
+    "Longitud": -71.51925344
+  },
+  {
+    "Total": 0,
+    "IdLocal": 486,
+    "Latitud": -16.44315308,
+    "Longitud": -71.53183098
+  },
+  {
+    "Total": 0,
+    "IdLocal": 491,
+    "Latitud": -12.64286127,
+    "Longitud": -74.86302086
+  },
+  {
+    "Total": 0,
+    "IdLocal": 492,
+    "Latitud": -12.58608712,
+    "Longitud": -74.71412875
+  },
+  {
+    "Total": 0,
+    "IdLocal": 493,
+    "Latitud": -12.52261097,
+    "Longitud": -74.83091216
+  },
+  {
+    "Total": 0,
+    "IdLocal": 503,
+    "Latitud": -11.92330767,
+    "Longitud": -75.31073814
+  },
+  {
+    "Total": 0,
+    "IdLocal": 504,
+    "Latitud": -12.13628804,
+    "Longitud": -75.22288016
+  },
+  {
+    "Total": 0,
+    "IdLocal": 505,
+    "Latitud": -12.05379636,
+    "Longitud": -75.25365892
+  },
+  {
+    "Total": 0,
+    "IdLocal": 506,
+    "Latitud": -12.14369393,
+    "Longitud": -75.16091264
+  },
+  {
+    "Total": 0,
+    "IdLocal": 507,
+    "Latitud": -12.01650013,
+    "Longitud": -75.28246434
+  },
+  {
+    "Total": 0,
+    "IdLocal": 508,
+    "Latitud": -11.163031,
+    "Longitud": -75.99149
+  },
+  {
+    "Total": 0,
+    "IdLocal": 509,
+    "Latitud": -11.1568,
+    "Longitud": -75.9991
+  },
+  {
+    "Total": 0,
+    "IdLocal": 510,
+    "Latitud": -11.432571,
+    "Longitud": -74.48057722
+  },
+  {
+    "Total": 0,
+    "IdLocal": 511,
+    "Latitud": -11.428196,
+    "Longitud": -74.49100612
+  },
+  {
+    "Total": 0,
+    "IdLocal": 512,
+    "Latitud": -11.4226648,
+    "Longitud": -75.6955393
+  },
+  {
+    "Total": 0,
+    "IdLocal": 513,
+    "Latitud": -11.421642,
+    "Longitud": -75.69023
+  },
+  {
+    "Total": 0,
+    "IdLocal": 514,
+    "Latitud": -11.4089029,
+    "Longitud": -75.68618742
+  },
+  {
+    "Total": 0,
+    "IdLocal": 515,
+    "Latitud": -6.128719,
+    "Longitud": -77.09733
+  },
+  {
+    "Total": 0,
+    "IdLocal": 516,
+    "Latitud": -6.06134558,
+    "Longitud": -77.16685703
+  },
+  {
+    "Total": 0,
+    "IdLocal": 517,
+    "Latitud": -8.45328763,
+    "Longitud": -76.32590955
+  },
+  {
+    "Total": 0,
+    "IdLocal": 518,
+    "Latitud": -8.45201073,
+    "Longitud": -76.46213879
+  },
+  {
+    "Total": 0,
+    "IdLocal": 519,
+    "Latitud": -12.11672032,
+    "Longitud": -76.87402486
+  },
+  {
+    "Total": 0,
+    "IdLocal": 520,
+    "Latitud": -12.06201357,
+    "Longitud": -77.04361846
+  },
+  {
+    "Total": 0,
+    "IdLocal": 521,
+    "Latitud": -11.98137745,
+    "Longitud": -77.00023088
+  },
+  {
+    "Total": 0,
+    "IdLocal": 522,
+    "Latitud": -13.92317381,
+    "Longitud": -71.67890616
+  },
+  {
+    "Total": 0,
+    "IdLocal": 523,
+    "Latitud": -14.03462104,
+    "Longitud": -71.57104952
+  },
+  {
+    "Total": 0,
+    "IdLocal": 524,
+    "Latitud": -14.3575,
+    "Longitud": -71.16959
+  },
+  {
+    "Total": 0,
+    "IdLocal": 525,
+    "Latitud": -14.26505279,
+    "Longitud": -71.22603405
+  },
+  {
+    "Total": 0,
+    "IdLocal": 526,
+    "Latitud": -14.27783242,
+    "Longitud": -71.22421778
+  },
+  {
+    "Total": 0,
+    "IdLocal": 527,
+    "Latitud": -14.027808,
+    "Longitud": -71.45365
+  },
+  {
+    "Total": 0,
+    "IdLocal": 528,
+    "Latitud": -14.10082266,
+    "Longitud": -71.4307495
+  },
+  {
+    "Total": 0,
+    "IdLocal": 529,
+    "Latitud": -13.97099958,
+    "Longitud": -71.83146452
+  },
+  {
+    "Total": 0,
+    "IdLocal": 530,
+    "Latitud": -13.76444858,
+    "Longitud": -71.84335304
+  },
+  {
+    "Total": 0,
+    "IdLocal": 531,
+    "Latitud": -13.66527079,
+    "Longitud": -71.92058824
+  },
+  {
+    "Total": 0,
+    "IdLocal": 532,
+    "Latitud": -13.21179477,
+    "Longitud": -71.64985845
+  },
+  {
+    "Total": 0,
+    "IdLocal": 533,
+    "Latitud": -13.36011074,
+    "Longitud": -71.67348015
+  },
+  {
+    "Total": 0,
+    "IdLocal": 534,
+    "Latitud": -13.50355865,
+    "Longitud": -71.65508974
+  },
+  {
+    "Total": 0,
+    "IdLocal": 535,
+    "Latitud": -13.32207483,
+    "Longitud": -71.59185856
+  },
+  {
+    "Total": 0,
+    "IdLocal": 536,
+    "Latitud": -13.63935368,
+    "Longitud": -71.5144002
+  },
+  {
+    "Total": 0,
+    "IdLocal": 537,
+    "Latitud": -13.62774176,
+    "Longitud": -71.38709752
+  },
+  {
+    "Total": 0,
+    "IdLocal": 538,
+    "Latitud": -13.5952675,
+    "Longitud": -71.767276
+  },
+  {
+    "Total": 0,
+    "IdLocal": 539,
+    "Latitud": -13.82201657,
+    "Longitud": -71.54274979
+  },
+  {
+    "Total": 0,
+    "IdLocal": 540,
+    "Latitud": -13.68351011,
+    "Longitud": -71.62475671
+  },
+  {
+    "Total": 0,
+    "IdLocal": 541,
+    "Latitud": -10.676396,
+    "Longitud": -77.81516
+  },
+  {
+    "Total": 0,
+    "IdLocal": 542,
+    "Latitud": -10.67501,
+    "Longitud": -77.81886
+  },
+  {
+    "Total": 0,
+    "IdLocal": 543,
+    "Latitud": -10.799957,
+    "Longitud": -77.71101
+  },
+  {
+    "Total": 0,
+    "IdLocal": 544,
+    "Latitud": -10.793968,
+    "Longitud": -77.71312
+  },
+  {
+    "Total": 0,
+    "IdLocal": 545,
+    "Latitud": -13.03094,
+    "Longitud": -76.36225
+  },
+  {
+    "Total": 0,
+    "IdLocal": 546,
+    "Latitud": -13.08346,
+    "Longitud": -76.38431
+  },
+  {
+    "Total": 0,
+    "IdLocal": 547,
+    "Latitud": -11.56356,
+    "Longitud": -77.27268
+  },
+  {
+    "Total": 0,
+    "IdLocal": 548,
+    "Latitud": -11.56084,
+    "Longitud": -77.26904
+  },
+  {
+    "Total": 0,
+    "IdLocal": 549,
+    "Latitud": -11.56084,
+    "Longitud": -77.27033
+  },
+  {
+    "Total": 0,
+    "IdLocal": 550,
+    "Latitud": -11.921603,
+    "Longitud": -76.955551
+  },
+  {
+    "Total": 0,
+    "IdLocal": 551,
+    "Latitud": -12.00721233,
+    "Longitud": -76.95577008
+  },
+  {
+    "Total": 0,
+    "IdLocal": 552,
+    "Latitud": -12.00277168,
+    "Longitud": -76.98754835
+  },
+  {
+    "Total": 0,
+    "IdLocal": 553,
+    "Latitud": -11.87897935,
+    "Longitud": -76.95216494
+  },
+  {
+    "Total": 0,
+    "IdLocal": 554,
+    "Latitud": -11.98535856,
+    "Longitud": -76.94972662
+  },
+  {
+    "Total": 0,
+    "IdLocal": 555,
+    "Latitud": -11.74416,
+    "Longitud": -76.656017
+  },
+  {
+    "Total": 0,
+    "IdLocal": 556,
+    "Latitud": -8.37292008,
+    "Longitud": -74.55112781
+  },
+  {
+    "Total": 0,
+    "IdLocal": 557,
+    "Latitud": -14.07428341,
+    "Longitud": -75.73970865
+  },
+  {
+    "Total": 0,
+    "IdLocal": 558,
+    "Latitud": -14.06946715,
+    "Longitud": -75.72789647
+  },
+  {
+    "Total": 0,
+    "IdLocal": 559,
+    "Latitud": -14.11471823,
+    "Longitud": -75.67589812
+  },
+  {
+    "Total": 0,
+    "IdLocal": 560,
+    "Latitud": -14.04816588,
+    "Longitud": -75.70763592
+  },
+  {
+    "Total": 0,
+    "IdLocal": 561,
+    "Latitud": -13.96943375,
+    "Longitud": -75.77247534
+  },
+  {
+    "Total": 0,
+    "IdLocal": 562,
+    "Latitud": -13.92621847,
+    "Longitud": -75.9208622
+  },
+  {
+    "Total": 0,
+    "IdLocal": 563,
+    "Latitud": -14.01822141,
+    "Longitud": -75.75832136
+  },
+  {
+    "Total": 0,
+    "IdLocal": 564,
+    "Latitud": -8.1325072,
+    "Longitud": -78.05514353
+  },
+  {
+    "Total": 0,
+    "IdLocal": 565,
+    "Latitud": -8.0938891,
+    "Longitud": -78.15009942
+  },
+  {
+    "Total": 0,
+    "IdLocal": 566,
+    "Latitud": -8.1741616,
+    "Longitud": -77.9743281
+  },
+  {
+    "Total": 0,
+    "IdLocal": 567,
+    "Latitud": -8.19370544,
+    "Longitud": -77.95681583
+  },
+  {
+    "Total": 0,
+    "IdLocal": 568,
+    "Latitud": -8.00189161,
+    "Longitud": -78.31031234
+  },
+  {
+    "Total": 0,
+    "IdLocal": 569,
+    "Latitud": -8.11127567,
+    "Longitud": -78.13581304
+  },
+  {
+    "Total": 0,
+    "IdLocal": 570,
+    "Latitud": -8.1415262,
+    "Longitud": -78.17456183
+  },
+  {
+    "Total": 0,
+    "IdLocal": 571,
+    "Latitud": -8.021001,
+    "Longitud": -77.731888
+  },
+  {
+    "Total": 0,
+    "IdLocal": 572,
+    "Latitud": -16.37236468,
+    "Longitud": -71.51038046
+  },
+  {
+    "Total": 0,
+    "IdLocal": 573,
+    "Latitud": -16.37815098,
+    "Longitud": -71.53096851
+  },
+  {
+    "Total": 0,
+    "IdLocal": 574,
+    "Latitud": -16.3843559,
+    "Longitud": -71.52128445
+  },
+  {
+    "Total": 0,
+    "IdLocal": 575,
+    "Latitud": -16.37978455,
+    "Longitud": -71.51348385
+  },
+  {
+    "Total": 0,
+    "IdLocal": 576,
+    "Latitud": -16.47141844,
+    "Longitud": -71.48741265
+  },
+  {
+    "Total": 0,
+    "IdLocal": 577,
+    "Latitud": -16.47703218,
+    "Longitud": -71.48472899
+  },
+  {
+    "Total": 0,
+    "IdLocal": 578,
+    "Latitud": -16.41287218,
+    "Longitud": -71.46758652
+  },
+  {
+    "Total": 0,
+    "IdLocal": 579,
+    "Latitud": -16.40266331,
+    "Longitud": -71.39241904
+  },
+  {
+    "Total": 0,
+    "IdLocal": 580,
+    "Latitud": -16.44960089,
+    "Longitud": -71.55731322
+  },
+  {
+    "Total": 0,
+    "IdLocal": 581,
+    "Latitud": -16.45833271,
+    "Longitud": -71.55367164
+  },
+  {
+    "Total": 0,
+    "IdLocal": 582,
+    "Latitud": -16.44868216,
+    "Longitud": -71.56036109
+  },
+  {
+    "Total": 0,
+    "IdLocal": 583,
+    "Latitud": -16.44090507,
+    "Longitud": -71.55743227
+  },
+  {
+    "Total": 0,
+    "IdLocal": 584,
+    "Latitud": -16.44770916,
+    "Longitud": -71.55248728
+  },
+  {
+    "Total": 0,
+    "IdLocal": 585,
+    "Latitud": -16.48683904,
+    "Longitud": -71.46645338
+  },
+  {
+    "Total": 0,
+    "IdLocal": 586,
+    "Latitud": -16.49612835,
+    "Longitud": -71.49941206
+  },
+  {
+    "Total": 0,
+    "IdLocal": 587,
+    "Latitud": -16.55717847,
+    "Longitud": -71.45142964
+  },
+  {
+    "Total": 0,
+    "IdLocal": 588,
+    "Latitud": -16.44985232,
+    "Longitud": -71.49543652
+  },
+  {
+    "Total": 0,
+    "IdLocal": 589,
+    "Latitud": -16.45918027,
+    "Longitud": -71.48615169
+  },
+  {
+    "Total": 0,
+    "IdLocal": 590,
+    "Latitud": -16.42886359,
+    "Longitud": -71.57930471
+  },
+  {
+    "Total": 0,
+    "IdLocal": 591,
+    "Latitud": -16.41352633,
+    "Longitud": -71.57807682
+  },
+  {
+    "Total": 0,
+    "IdLocal": 592,
+    "Latitud": -16.42132497,
+    "Longitud": -71.56462914
+  },
+  {
+    "Total": 0,
+    "IdLocal": 593,
+    "Latitud": -16.43745555,
+    "Longitud": -71.59818775
+  },
+  {
+    "Total": 0,
+    "IdLocal": 594,
+    "Latitud": -16.4437278,
+    "Longitud": -71.59236594
+  },
+  {
+    "Total": 0,
+    "IdLocal": 595,
+    "Latitud": -16.44489317,
+    "Longitud": -71.6210374
+  },
+  {
+    "Total": 0,
+    "IdLocal": 596,
+    "Latitud": -16.42473405,
+    "Longitud": -71.67295046
+  },
+  {
+    "Total": 0,
+    "IdLocal": 597,
+    "Latitud": -16.3866613857,
+    "Longitud": -71.5426986178
+  },
+  {
+    "Total": 0,
+    "IdLocal": 598,
+    "Latitud": -16.36303358,
+    "Longitud": -71.54094578
+  },
+  {
+    "Total": 0,
+    "IdLocal": 599,
+    "Latitud": -16.39616297,
+    "Longitud": -71.54842133
+  },
+  {
+    "Total": 0,
+    "IdLocal": 600,
+    "Latitud": -16.40440572,
+    "Longitud": -71.56964077
+  },
+  {
+    "Total": 0,
+    "IdLocal": 601,
+    "Latitud": -16.57071172,
+    "Longitud": -71.45547347
+  },
+  {
+    "Total": 0,
+    "IdLocal": 602,
+    "Latitud": -16.54710287,
+    "Longitud": -71.47494164
+  },
+  {
+    "Total": 0,
+    "IdLocal": 603,
+    "Latitud": -16.3092077,
+    "Longitud": -71.61190963
+  },
+  {
+    "Total": 0,
+    "IdLocal": 604,
+    "Latitud": -16.3021963,
+    "Longitud": -71.62349139
+  },
+  {
+    "Total": 0,
+    "IdLocal": 605,
+    "Latitud": -5.2179359,
+    "Longitud": -80.62537028
+  },
+  {
+    "Total": 0,
+    "IdLocal": 606,
+    "Latitud": -5.17338986,
+    "Longitud": -80.64511826
+  },
+  {
+    "Total": 0,
+    "IdLocal": 607,
+    "Latitud": -4.92498912,
+    "Longitud": -80.66025664
+  },
+  {
+    "Total": 0,
+    "IdLocal": 608,
+    "Latitud": -4.99856058,
+    "Longitud": -80.68672246
+  },
+  {
+    "Total": 0,
+    "IdLocal": 609,
+    "Latitud": -4.98526732,
+    "Longitud": -80.66054147
+  },
+  {
+    "Total": 0,
+    "IdLocal": 610,
+    "Latitud": -4.89825655,
+    "Longitud": -80.68705119
+  },
+  {
+    "Total": 0,
+    "IdLocal": 611,
+    "Latitud": -4.9087296,
+    "Longitud": -80.7244195
+  },
+  {
+    "Total": 0,
+    "IdLocal": 612,
+    "Latitud": -4.901691,
+    "Longitud": -80.678124
+  },
+  {
+    "Total": 0,
+    "IdLocal": 613,
+    "Latitud": -4.89688829,
+    "Longitud": -80.6923904
+  },
+  {
+    "Total": 0,
+    "IdLocal": 614,
+    "Latitud": -4.91131882,
+    "Longitud": -80.6954317
+  },
+  {
+    "Total": 0,
+    "IdLocal": 617,
+    "Latitud": -10.74564,
+    "Longitud": -77.75734
+  },
+  {
+    "Total": 0,
+    "IdLocal": 619,
+    "Latitud": -10.658479,
+    "Longitud": -77.65737
+  },
+  {
+    "Total": 0,
+    "IdLocal": 620,
+    "Latitud": -10.80286,
+    "Longitud": -77.74359
+  },
+  {
+    "Total": 0,
+    "IdLocal": 621,
+    "Latitud": -10.4731,
+    "Longitud": -76.99409
+  },
+  {
+    "Total": 0,
+    "IdLocal": 622,
+    "Latitud": -12.54300708,
+    "Longitud": -76.72224467
+  },
+  {
+    "Total": 0,
+    "IdLocal": 624,
+    "Latitud": -12.51267613,
+    "Longitud": -76.73249873
+  },
+  {
+    "Total": 0,
+    "IdLocal": 625,
+    "Latitud": -12.5200096,
+    "Longitud": -76.73491332
+  },
+  {
+    "Total": 0,
+    "IdLocal": 626,
+    "Latitud": -12.50214043,
+    "Longitud": -76.74010751
+  },
+  {
+    "Total": 0,
+    "IdLocal": 627,
+    "Latitud": -12.05965775,
+    "Longitud": -75.20306574
+  },
+  {
+    "Total": 0,
+    "IdLocal": 628,
+    "Latitud": -12.46358507,
+    "Longitud": -76.74834249
+  },
+  {
+    "Total": 0,
+    "IdLocal": 629,
+    "Latitud": -12.47587699,
+    "Longitud": -76.73925218
+  },
+  {
+    "Total": 0,
+    "IdLocal": 633,
+    "Latitud": -12.6628847,
+    "Longitud": -76.62829148
+  },
+  {
+    "Total": 0,
+    "IdLocal": 636,
+    "Latitud": -12.66949173,
+    "Longitud": -76.64212467
+  },
+  {
+    "Total": 0,
+    "IdLocal": 637,
+    "Latitud": -12.65127896,
+    "Longitud": -76.6247398
+  },
+  {
+    "Total": 0,
+    "IdLocal": 638,
+    "Latitud": -12.66345767,
+    "Longitud": -76.62959425
+  },
+  {
+    "Total": 0,
+    "IdLocal": 640,
+    "Latitud": -11.58679,
+    "Longitud": -77.27033
+  },
+  {
+    "Total": 0,
+    "IdLocal": 641,
+    "Latitud": -11.84464842,
+    "Longitud": -76.38568074
+  },
+  {
+    "Total": 0,
+    "IdLocal": 648,
+    "Latitud": -11.0997,
+    "Longitud": -77.6061
+  },
+  {
+    "Total": 0,
+    "IdLocal": 651,
+    "Latitud": -11.218948,
+    "Longitud": -77.413384
+  },
+  {
+    "Total": 0,
+    "IdLocal": 655,
+    "Latitud": -12.46562,
+    "Longitud": -75.8952
+  },
+  {
+    "Total": 0,
+    "IdLocal": 656,
+    "Latitud": -7.86021,
+    "Longitud": -77.9451
+  },
+  {
+    "Total": 0,
+    "IdLocal": 657,
+    "Latitud": -7.81599,
+    "Longitud": -78.0498
+  },
+  {
+    "Total": 0,
+    "IdLocal": 658,
+    "Latitud": -7.81799,
+    "Longitud": -78.0419
+  },
+  {
+    "Total": 0,
+    "IdLocal": 659,
+    "Latitud": -17.9961,
+    "Longitud": -70.2492
+  },
+  {
+    "Total": 0,
+    "IdLocal": 660,
+    "Latitud": -17.996,
+    "Longitud": -70.2117
+  },
+  {
+    "Total": 0,
+    "IdLocal": 662,
+    "Latitud": -16.142025,
+    "Longitud": -70.541362
+  },
+  {
+    "Total": 0,
+    "IdLocal": 663,
+    "Latitud": -16.674621,
+    "Longitud": -70.972826
+  },
+  {
+    "Total": 0,
+    "IdLocal": 664,
+    "Latitud": -16.623869,
+    "Longitud": -71.185531
+  },
+  {
+    "Total": 0,
+    "IdLocal": 665,
+    "Latitud": -16.808404,
+    "Longitud": -70.69559
+  },
+  {
+    "Total": 0,
+    "IdLocal": 666,
+    "Latitud": -17.0748593,
+    "Longitud": -70.842012
+  },
+  {
+    "Total": 0,
+    "IdLocal": 668,
+    "Latitud": -12.03925652,
+    "Longitud": -77.09073254
+  },
+  {
+    "Total": 0,
+    "IdLocal": 669,
+    "Latitud": -11.83157108,
+    "Longitud": -77.15435886
+  },
+  {
+    "Total": 0,
+    "IdLocal": 670,
+    "Latitud": -12.168426257,
+    "Longitud": -77.019006565
+  },
+  {
+    "Total": 0,
+    "IdLocal": 671,
+    "Latitud": -11.92079955,
+    "Longitud": -77.03946579
+  },
+  {
+    "Total": 0,
+    "IdLocal": 672,
+    "Latitud": -11.9634807,
+    "Longitud": -77.05644983
+  },
+  {
+    "Total": 0,
+    "IdLocal": 673,
+    "Latitud": -12.05821684,
+    "Longitud": -77.03845711
+  },
+  {
+    "Total": 0,
+    "IdLocal": 674,
+    "Latitud": -12.06296214,
+    "Longitud": -77.03516816
+  },
+  {
+    "Total": 0,
+    "IdLocal": 675,
+    "Latitud": -12.09046715,
+    "Longitud": -77.0182276
+  },
+  {
+    "Total": 0,
+    "IdLocal": 676,
+    "Latitud": -12.10934519,
+    "Longitud": -77.03928246
+  },
+  {
+    "Total": 0,
+    "IdLocal": 677,
+    "Latitud": -12.16302431,
+    "Longitud": -76.96261206
+  },
+  {
+    "Total": 0,
+    "IdLocal": 678,
+    "Latitud": -12.23167838,
+    "Longitud": -76.92820839
+  },
+  {
+    "Total": 0,
+    "IdLocal": 679,
+    "Latitud": -12.17812928,
+    "Longitud": -76.94161842
+  },
+  {
+    "Total": 0,
+    "IdLocal": 681,
+    "Latitud": -6.2295148,
+    "Longitud": -77.8657029
+  },
+  {
+    "Total": 0,
+    "IdLocal": 682,
+    "Latitud": -16.62391114,
+    "Longitud": -72.71519063
+  },
+  {
+    "Total": 0,
+    "IdLocal": 683,
+    "Latitud": -15.63432957,
+    "Longitud": -71.6021765
+  },
+  {
+    "Total": 0,
+    "IdLocal": 684,
+    "Latitud": -16.35885611,
+    "Longitud": -72.18918668
+  },
+  {
+    "Total": 0,
+    "IdLocal": 685,
+    "Latitud": -16.35549481,
+    "Longitud": -72.18730324
+  },
+  {
+    "Total": 0,
+    "IdLocal": 686,
+    "Latitud": -16.37601597,
+    "Longitud": -72.19876137
+  },
+  {
+    "Total": 0,
+    "IdLocal": 687,
+    "Latitud": -16.34386114,
+    "Longitud": -72.17776743
+  },
+  {
+    "Total": 0,
+    "IdLocal": 688,
+    "Latitud": -17.01720779,
+    "Longitud": -72.01277613
+  },
+  {
+    "Total": 0,
+    "IdLocal": 689,
+    "Latitud": -13.43670146,
+    "Longitud": -76.08308328
+  },
+  {
+    "Total": 0,
+    "IdLocal": 690,
+    "Latitud": -13.41362591,
+    "Longitud": -76.12807269
+  },
+  {
+    "Total": 0,
+    "IdLocal": 691,
+    "Latitud": -13.41283975,
+    "Longitud": -76.1298999
+  },
+  {
+    "Total": 0,
+    "IdLocal": 692,
+    "Latitud": -13.40181174,
+    "Longitud": -76.15829542
+  },
+  {
+    "Total": 0,
+    "IdLocal": 693,
+    "Latitud": -13.40416639,
+    "Longitud": -76.13597087
+  },
+  {
+    "Total": 0,
+    "IdLocal": 694,
+    "Latitud": -13.42909928,
+    "Longitud": -76.16418489
+  },
+  {
+    "Total": 0,
+    "IdLocal": 695,
+    "Latitud": -14.12793749,
+    "Longitud": -75.70629404
+  },
+  {
+    "Total": 0,
+    "IdLocal": 696,
+    "Latitud": -15.35912431,
+    "Longitud": -75.16626576
+  },
+  {
+    "Total": 0,
+    "IdLocal": 697,
+    "Latitud": -14.8447151,
+    "Longitud": -74.94358032
+  },
+  {
+    "Total": 0,
+    "IdLocal": 698,
+    "Latitud": -14.53826542,
+    "Longitud": -75.18774285
+  },
+  {
+    "Total": 0,
+    "IdLocal": 699,
+    "Latitud": -13.71137996,
+    "Longitud": -76.19544793
+  },
+  {
+    "Total": 0,
+    "IdLocal": 700,
+    "Latitud": -13.71050227,
+    "Longitud": -76.20718213
+  },
+  {
+    "Total": 0,
+    "IdLocal": 701,
+    "Latitud": -13.71074924,
+    "Longitud": -76.20899725
+  },
+  {
+    "Total": 0,
+    "IdLocal": 702,
+    "Latitud": -13.7326751,
+    "Longitud": -76.22046382
+  },
+  {
+    "Total": 0,
+    "IdLocal": 703,
+    "Latitud": -13.67198644,
+    "Longitud": -76.15813529
+  },
+  {
+    "Total": 0,
+    "IdLocal": 704,
+    "Latitud": -13.70507397,
+    "Longitud": -76.14923352
+  },
+  {
+    "Total": 0,
+    "IdLocal": 705,
+    "Latitud": -15.837603,
+    "Longitud": -70.02724
+  },
+  {
+    "Total": 0,
+    "IdLocal": 707,
+    "Latitud": -16.40536804,
+    "Longitud": -71.54437967
+  },
+  {
+    "Total": 0,
+    "IdLocal": 708,
+    "Latitud": -16.40029064,
+    "Longitud": -71.52364174
+  },
+  {
+    "Total": 0,
+    "IdLocal": 709,
+    "Latitud": -16.41866058,
+    "Longitud": -71.53920529
+  },
+  {
+    "Total": 0,
+    "IdLocal": 710,
+    "Latitud": -16.32249862,
+    "Longitud": -71.59300727
+  },
+  {
+    "Total": 0,
+    "IdLocal": 711,
+    "Latitud": -16.423642,
+    "Longitud": -71.531245
+  },
+  {
+    "Total": 0,
+    "IdLocal": 712,
+    "Latitud": -16.444475,
+    "Longitud": -71.514191
+  },
+  {
+    "Total": 0,
+    "IdLocal": 713,
+    "Latitud": -16.41819876,
+    "Longitud": -71.47408904
+  },
+  {
+    "Total": 0,
+    "IdLocal": 714,
+    "Latitud": -16.42672048,
+    "Longitud": -71.4976845
+  },
+  {
+    "Total": 0,
+    "IdLocal": 715,
+    "Latitud": -16.41923627,
+    "Longitud": -71.48411166
+  },
+  {
+    "Total": 0,
+    "IdLocal": 716,
+    "Latitud": -16.41985403,
+    "Longitud": -71.50756544
+  },
+  {
+    "Total": 0,
+    "IdLocal": 717,
+    "Latitud": -11.1197182,
+    "Longitud": -75.3593715
+  },
+  {
+    "Total": 0,
+    "IdLocal": 718,
+    "Latitud": -11.781816,
+    "Longitud": -75.493035
+  },
+  {
+    "Total": 0,
+    "IdLocal": 719,
+    "Latitud": -11.780217,
+    "Longitud": -75.497982
+  },
+  {
+    "Total": 0,
+    "IdLocal": 720,
+    "Latitud": -11.253889,
+    "Longitud": -74.637
+  },
+  {
+    "Total": 0,
+    "IdLocal": 721,
+    "Latitud": -10.658479,
+    "Longitud": -77.65737
+  },
+  {
+    "Total": 0,
+    "IdLocal": 722,
+    "Latitud": -10.676396,
+    "Longitud": -10.676396
+  },
+  {
+    "Total": 0,
+    "IdLocal": 723,
+    "Latitud": -10.80286,
+    "Longitud": -77.74359
+  },
+  {
+    "Total": 0,
+    "IdLocal": 725,
+    "Latitud": -12.46459795,
+    "Longitud": -76.7421415
+  },
+  {
+    "Total": 0,
+    "IdLocal": 726,
+    "Latitud": -12.54300708,
+    "Longitud": -76.72224467
+  },
+  {
+    "Total": 0,
+    "IdLocal": 727,
+    "Latitud": -12.46358507,
+    "Longitud": -76.74834249
+  },
+  {
+    "Total": 0,
+    "IdLocal": 729,
+    "Latitud": -12.96255,
+    "Longitud": -76.14589
+  },
+  {
+    "Total": 0,
+    "IdLocal": 730,
+    "Latitud": -12.6513866,
+    "Longitud": -76.6498154
+  },
+  {
+    "Total": 0,
+    "IdLocal": 731,
+    "Latitud": -12.71266711,
+    "Longitud": -76.61029304
+  },
+  {
+    "Total": 0,
+    "IdLocal": 732,
+    "Latitud": -12.66949173,
+    "Longitud": -76.64212467
+  },
+  {
+    "Total": 0,
+    "IdLocal": 733,
+    "Latitud": -12.65931939,
+    "Longitud": -76.62594471
+  },
+  {
+    "Total": 0,
+    "IdLocal": 734,
+    "Latitud": -12.65127896,
+    "Longitud": -76.6247398
+  },
+  {
+    "Total": 0,
+    "IdLocal": 735,
+    "Latitud": -12.66451456,
+    "Longitud": -76.61852145
+  },
+  {
+    "Total": 0,
+    "IdLocal": 736,
+    "Latitud": -12.66345767,
+    "Longitud": -76.62959425
+  },
+  {
+    "Total": 0,
+    "IdLocal": 737,
+    "Latitud": -11.470337862,
+    "Longitud": -76.6244003719
+  },
+  {
+    "Total": 0,
+    "IdLocal": 738,
+    "Latitud": -11.84464842,
+    "Longitud": -76.38568074
+  },
+  {
+    "Total": 0,
+    "IdLocal": 739,
+    "Latitud": -11.75722,
+    "Longitud": -76.298115
+  },
+  {
+    "Total": 0,
+    "IdLocal": 740,
+    "Latitud": -11.0916512,
+    "Longitud": -77.6281933
+  },
+  {
+    "Total": 0,
+    "IdLocal": 741,
+    "Latitud": -11.0916512,
+    "Longitud": -77.6281933
+  },
+  {
+    "Total": 0,
+    "IdLocal": 742,
+    "Latitud": -11.08662,
+    "Longitud": -77.60389
+  },
+  {
+    "Total": 0,
+    "IdLocal": 743,
+    "Latitud": -11.0997,
+    "Longitud": -77.6061
+  },
+  {
+    "Total": 0,
+    "IdLocal": 744,
+    "Latitud": -11.0709579,
+    "Longitud": -77.6017039
+  },
+  {
+    "Total": 0,
+    "IdLocal": 745,
+    "Latitud": -11.0921622,
+    "Longitud": -77.5793156
+  },
+  {
+    "Total": 0,
+    "IdLocal": 746,
+    "Latitud": -11.21666635,
+    "Longitud": -77.413014
+  },
+  {
+    "Total": 0,
+    "IdLocal": 747,
+    "Latitud": -11.132624,
+    "Longitud": -77.189982
+  },
+  {
+    "Total": 0,
+    "IdLocal": 748,
+    "Latitud": -10.6681,
+    "Longitud": -76.7731
+  },
+  {
+    "Total": 0,
+    "IdLocal": 749,
+    "Latitud": -10.8124,
+    "Longitud": -76.8764
+  },
+  {
+    "Total": 0,
+    "IdLocal": 750,
+    "Latitud": -12.46562,
+    "Longitud": -75.8952
+  },
+  {
+    "Total": 0,
+    "IdLocal": 751,
+    "Latitud": -17.65158,
+    "Longitud": -71.32605
+  },
+  {
+    "Total": 0,
+    "IdLocal": 752,
+    "Latitud": -17.65158,
+    "Longitud": -71.32605
+  },
+  {
+    "Total": 0,
+    "IdLocal": 753,
+    "Latitud": -17.65158,
+    "Longitud": -71.32605
+  },
+  {
+    "Total": 0,
+    "IdLocal": 754,
+    "Latitud": -17.65158,
+    "Longitud": -71.32605
+  },
+  {
+    "Total": 0,
+    "IdLocal": 755,
+    "Latitud": -17.65158,
+    "Longitud": -71.32605
+  },
+  {
+    "Total": 0,
+    "IdLocal": 756,
+    "Latitud": -17.65158,
+    "Longitud": -71.32605
+  },
+  {
+    "Total": 0,
+    "IdLocal": 757,
+    "Latitud": -9.09245076,
+    "Longitud": -77.32907073
+  },
+  {
+    "Total": 0,
+    "IdLocal": 758,
+    "Latitud": -16.6829541,
+    "Longitud": -71.88763109
+  },
+  {
+    "Total": 0,
+    "IdLocal": 759,
+    "Latitud": -16.4215438,
+    "Longitud": -71.81668023
+  },
+  {
+    "Total": 0,
+    "IdLocal": 760,
+    "Latitud": -16.49372449,
+    "Longitud": -71.83863002
+  },
+  {
+    "Total": 0,
+    "IdLocal": 761,
+    "Latitud": -16.42552262,
+    "Longitud": -71.82187725
+  },
+  {
+    "Total": 0,
+    "IdLocal": 762,
+    "Latitud": -16.57534985,
+    "Longitud": -71.93174356
+  },
+  {
+    "Total": 0,
+    "IdLocal": 763,
+    "Latitud": -16.44725377,
+    "Longitud": -71.53323855
+  },
+  {
+    "Total": 0,
+    "IdLocal": 765,
+    "Latitud": -10.166667,
+    "Longitud": -76.166667
+  },
+  {
+    "Total": 0,
+    "IdLocal": 766,
+    "Latitud": -9.2878,
+    "Longitud": -76.00081
+  },
+  {
+    "Total": 0,
+    "IdLocal": 767,
+    "Latitud": -14.05843595,
+    "Longitud": -75.73043549
+  },
+  {
+    "Total": 0,
+    "IdLocal": 768,
+    "Latitud": -14.07797077,
+    "Longitud": -75.73140549
+  },
+  {
+    "Total": 0,
+    "IdLocal": 770,
+    "Latitud": -14.82240104,
+    "Longitud": -74.93391393
+  },
+  {
+    "Total": 0,
+    "IdLocal": 771,
+    "Latitud": -14.82486397,
+    "Longitud": -74.93730359
+  },
+  {
+    "Total": 0,
+    "IdLocal": 772,
+    "Latitud": -14.8484933,
+    "Longitud": -74.94097345
+  },
+  {
+    "Total": 0,
+    "IdLocal": 773,
+    "Latitud": -4.50306,
+    "Longitud": -73.57857
+  },
+  {
+    "Total": 0,
+    "IdLocal": 774,
+    "Latitud": -4.50306,
+    "Longitud": -73.580629
+  },
+  {
+    "Total": 0,
+    "IdLocal": 777,
+    "Latitud": -17.65128,
+    "Longitud": -71.34126
+  },
+  {
+    "Total": 0,
+    "IdLocal": 778,
+    "Latitud": -17.63299,
+    "Longitud": -71.33855
+  },
+  {
+    "Total": 0,
+    "IdLocal": 779,
+    "Latitud": -17.19994,
+    "Longitud": -70.91881
+  },
+  {
+    "Total": 0,
+    "IdLocal": 780,
+    "Latitud": -17.2006,
+    "Longitud": -70.94538
+  },
+  {
+    "Total": 0,
+    "IdLocal": 783,
+    "Latitud": -4.57835343,
+    "Longitud": -81.27170873
+  },
+  {
+    "Total": 0,
+    "IdLocal": 784,
+    "Latitud": -4.57835343,
+    "Longitud": -81.27170873
+  },
+  {
+    "Total": 0,
+    "IdLocal": 785,
+    "Latitud": -17.27166312,
+    "Longitud": -70.25228994
+  },
+  {
+    "Total": 0,
+    "IdLocal": 786,
+    "Latitud": -17.61537391,
+    "Longitud": -70.77208584
+  },
+  {
+    "Total": 0,
+    "IdLocal": 787,
+    "Latitud": -18.04671778,
+    "Longitud": -70.2499678
+  },
+  {
+    "Total": 0,
+    "IdLocal": 788,
+    "Latitud": -18.04671778,
+    "Longitud": -70.2499678
+  },
+  {
+    "Total": 0,
+    "IdLocal": 789,
+    "Latitud": -9.2539,
+    "Longitud": -77.6065
+  },
+  {
+    "Total": 0,
+    "IdLocal": 790,
+    "Latitud": -9.535750291,
+    "Longitud": -77.526353806
+  },
+  {
+    "Total": 0,
+    "IdLocal": 791,
+    "Latitud": -9.520639227,
+    "Longitud": -77.526018714
+  },
+  {
+    "Total": 0,
+    "IdLocal": 792,
+    "Latitud": -9.51556799,
+    "Longitud": -77.526290511
+  },
+  {
+    "Total": 0,
+    "IdLocal": 793,
+    "Latitud": -9.51905237,
+    "Longitud": -77.531958498
+  },
+  {
+    "Total": 0,
+    "IdLocal": 794,
+    "Latitud": -13.682210364,
+    "Longitud": -72.018395342
+  },
+  {
+    "Total": 0,
+    "IdLocal": 795,
+    "Latitud": -13.097967229,
+    "Longitud": -75.948909145
+  },
+  {
+    "Total": 0,
+    "IdLocal": 796,
+    "Latitud": -13.426685708,
+    "Longitud": -76.121818049
+  },
+  {
+    "Total": 0,
+    "IdLocal": 797,
+    "Latitud": -13.49993401,
+    "Longitud": -76.059729647
+  },
+  {
+    "Total": 0,
+    "IdLocal": 798,
+    "Latitud": -13.193822908,
+    "Longitud": -75.787372041
+  },
+  {
+    "Total": 0,
+    "IdLocal": 799,
+    "Latitud": -13.048411677,
+    "Longitud": -75.647777811
+  },
+  {
+    "Total": 0,
+    "IdLocal": 800,
+    "Latitud": -13.458371817,
+    "Longitud": -76.183731858
+  },
+  {
+    "Total": 0,
+    "IdLocal": 801,
+    "Latitud": -14.354452938,
+    "Longitud": -75.676777376
+  },
+  {
+    "Total": 0,
+    "IdLocal": 802,
+    "Latitud": -14.150294826,
+    "Longitud": -75.691694735
+  },
+  {
+    "Total": 0,
+    "IdLocal": 803,
+    "Latitud": -13.929392551,
+    "Longitud": -75.670428992
+  },
+  {
+    "Total": 0,
+    "IdLocal": 804,
+    "Latitud": -14.28715906,
+    "Longitud": -75.682580331
+  },
+  {
+    "Total": 0,
+    "IdLocal": 805,
+    "Latitud": -14.188633519,
+    "Longitud": -75.710539213
+  },
+  {
+    "Total": 0,
+    "IdLocal": 806,
+    "Latitud": -14.145509653,
+    "Longitud": -75.706507845
+  },
+  {
+    "Total": 0,
+    "IdLocal": 807,
+    "Latitud": -14.126360446,
+    "Longitud": -75.566654601
+  },
+  {
+    "Total": 0,
+    "IdLocal": 808,
+    "Latitud": -14.666046929,
+    "Longitud": -75.223057147
+  },
+  {
+    "Total": 0,
+    "IdLocal": 809,
+    "Latitud": -14.645341964,
+    "Longitud": -75.060351645
+  },
+  {
+    "Total": 0,
+    "IdLocal": 810,
+    "Latitud": -14.563460224,
+    "Longitud": -75.207767767
+  },
+  {
+    "Total": 0,
+    "IdLocal": 811,
+    "Latitud": -14.519881,
+    "Longitud": -75.201156813
+  },
+  {
+    "Total": 0,
+    "IdLocal": 813,
+    "Latitud": -14.093558134,
+    "Longitud": -75.171961828
+  },
+  {
+    "Total": 0,
+    "IdLocal": 814,
+    "Latitud": -13.60079019,
+    "Longitud": -75.61853902
+  },
+  {
+    "Total": 0,
+    "IdLocal": 815,
+    "Latitud": -13.723451942,
+    "Longitud": -75.8903328
+  },
+  {
+    "Total": 0,
+    "IdLocal": 816,
+    "Latitud": -13.69358,
+    "Longitud": -76.025323587
+  },
+  {
+    "Total": 0,
+    "IdLocal": 817,
+    "Latitud": -13.83111678,
+    "Longitud": -76.247397819
+  },
+  {
+    "Total": 0,
+    "IdLocal": 818,
+    "Latitud": -8.16897,
+    "Longitud": -78.41414898
+  },
+  {
+    "Total": 0,
+    "IdLocal": 819,
+    "Latitud": -8.114677,
+    "Longitud": -78.607848
+  },
+  {
+    "Total": 0,
+    "IdLocal": 820,
+    "Latitud": -8.22444,
+    "Longitud": -78.4139
+  },
+  {
+    "Total": 0,
+    "IdLocal": 821,
+    "Latitud": -4.656931536,
+    "Longitud": -80.2435451
+  },
+  {
+    "Total": 0,
+    "IdLocal": 822,
+    "Latitud": -4.887471323,
+    "Longitud": -80.673946773
+  },
+  {
+    "Total": 0,
+    "IdLocal": 823,
+    "Latitud": -4.839706118,
+    "Longitud": -80.64875856
+  },
+  {
+    "Total": 0,
+    "IdLocal": 824,
+    "Latitud": -4.925457613,
+    "Longitud": -80.658015537
+  },
+  {
+    "Total": 0,
+    "IdLocal": 825,
+    "Latitud": -4.268688918,
+    "Longitud": -81.221537384
+  },
+  {
+    "Total": 0,
+    "IdLocal": 826,
+    "Latitud": -3.72692,
+    "Longitud": -73.2542
+  },
+  {
+    "Total": 0,
+    "IdLocal": 827,
+    "Latitud": -10.148826,
+    "Longitud": -77.155074
+  },
+  {
+    "Total": 0,
+    "IdLocal": 828,
+    "Latitud": -9.1198977,
+    "Longitud": -78.550301518
+  },
+  {
+    "Total": 0,
+    "IdLocal": 829,
+    "Latitud": -12.037761,
+    "Longitud": -75.230218
+  },
+  {
+    "Total": 0,
+    "IdLocal": 830,
+    "Latitud": -12.0570717,
+    "Longitud": -75.203814717
+  },
+  {
+    "Total": 0,
+    "IdLocal": 831,
+    "Latitud": -8.049659,
+    "Longitud": -78.489757
+  },
+  {
+    "Total": 0,
+    "IdLocal": 832,
+    "Latitud": -8.400461272,
+    "Longitud": -74.542767554
+  },
+  {
+    "Total": 0,
+    "IdLocal": 833,
+    "Latitud": -5.08525,
+    "Longitud": -81.1145
+  },
+  {
+    "Total": 0,
+    "IdLocal": 834,
+    "Latitud": -4.58825,
+    "Longitud": -81.2549
+  },
+  {
+    "Total": 0,
+    "IdLocal": 835,
+    "Latitud": -5.40754,
+    "Longitud": -78.4283
+  },
+  {
+    "Total": 0,
+    "IdLocal": 836,
+    "Latitud": -5.41977,
+    "Longitud": -78.4556
+  },
+  {
+    "Total": 0,
+    "IdLocal": 837,
+    "Latitud": -5.59107,
+    "Longitud": -78.32
+  },
+  {
+    "Total": 0,
+    "IdLocal": 838,
+    "Latitud": -5.62534,
+    "Longitud": -78.4766
+  },
+  {
+    "Total": 0,
+    "IdLocal": 839,
+    "Latitud": -5.74219,
+    "Longitud": -78.4338
+  },
+  {
+    "Total": 0,
+    "IdLocal": 840,
+    "Latitud": -5.09704,
+    "Longitud": -81.105
+  },
+  {
+    "Total": 0,
+    "IdLocal": 841,
+    "Latitud": -4.93199,
+    "Longitud": -80.3442
+  },
+  {
+    "Total": 0,
+    "IdLocal": 842,
+    "Latitud": -4.98527,
+    "Longitud": -80.6605
+  },
+  {
+    "Total": 0,
+    "IdLocal": 843,
+    "Latitud": -4.91041,
+    "Longitud": -80.6825
+  },
+  {
+    "Total": 0,
+    "IdLocal": 844,
+    "Latitud": -4.89689,
+    "Longitud": -80.6924
+  },
+  {
+    "Total": 0,
+    "IdLocal": 845,
+    "Latitud": -4.90169,
+    "Longitud": -80.6781
+  },
+  {
+    "Total": 0,
+    "IdLocal": 846,
+    "Latitud": -4.90873,
+    "Longitud": -80.7244
+  },
+  {
+    "Total": 0,
+    "IdLocal": 847,
+    "Latitud": -4.90438,
+    "Longitud": -80.7108
+  },
+  {
+    "Total": 0,
+    "IdLocal": 848,
+    "Latitud": -4.59005,
+    "Longitud": -81.1752
+  },
+  {
+    "Total": 0,
+    "IdLocal": 849,
+    "Latitud": -4.58825,
+    "Longitud": -81.2549
+  },
+  {
+    "Total": 0,
+    "IdLocal": 850,
+    "Latitud": -4.57835,
+    "Longitud": -81.2717
+  },
+  {
+    "Total": 0,
+    "IdLocal": 851,
+    "Latitud": -4.58047,
+    "Longitud": -81.2719
+  },
+  {
+    "Total": 0,
+    "IdLocal": 852,
+    "Latitud": -4.58809,
+    "Longitud": -81.273
+  },
+  {
+    "Total": 0,
+    "IdLocal": 853,
+    "Latitud": -8.0272,
+    "Longitud": -78.51626
+  },
+  {
+    "Total": 0,
+    "IdLocal": 854,
+    "Latitud": -7.76061,
+    "Longitud": -78.48375
+  },
+  {
+    "Total": 0,
+    "IdLocal": 855,
+    "Latitud": -7.98106,
+    "Longitud": -78.54479
+  },
+  {
+    "Total": 0,
+    "IdLocal": 856,
+    "Latitud": -7.68975,
+    "Longitud": -78.44181
+  },
+  {
+    "Total": 0,
+    "IdLocal": 857,
+    "Latitud": -8.0008,
+    "Longitud": -78.60417
+  },
+  {
+    "Total": 0,
+    "IdLocal": 858,
+    "Latitud": -7.792685,
+    "Longitud": -78.417369
+  },
+  {
+    "Total": 0,
+    "IdLocal": 859,
+    "Latitud": -5.75307378,
+    "Longitud": -78.44694034
+  },
+  {
+    "Total": 0,
+    "IdLocal": 860,
+    "Latitud": -5.76395564,
+    "Longitud": -78.42633822
+  },
+  {
+    "Total": 0,
+    "IdLocal": 861,
+    "Latitud": -5.480777,
+    "Longitud": -78.428856
+  },
+  {
+    "Total": 0,
+    "IdLocal": 862,
+    "Latitud": -9.780233,
+    "Longitud": -77.610627
+  },
+  {
+    "Total": 0,
+    "IdLocal": 863,
+    "Latitud": -16.0733,
+    "Longitud": -72.4896
+  },
+  {
+    "Total": 0,
+    "IdLocal": 864,
+    "Latitud": -16.0766,
+    "Longitud": -72.4902
+  },
+  {
+    "Total": 0,
+    "IdLocal": 865,
+    "Latitud": -15.2664,
+    "Longitud": -72.3433
+  },
+  {
+    "Total": 0,
+    "IdLocal": 866,
+    "Latitud": -17.093147588,
+    "Longitud": -71.7699817
+  },
+  {
+    "Total": 0,
+    "IdLocal": 867,
+    "Latitud": -17.13344962,
+    "Longitud": -71.812460999
+  },
+  {
+    "Total": 0,
+    "IdLocal": 868,
+    "Latitud": -16.999288227,
+    "Longitud": -72.097837365
+  },
+  {
+    "Total": 0,
+    "IdLocal": 869,
+    "Latitud": -17.100085997,
+    "Longitud": -71.906446224
+  },
+  {
+    "Total": 0,
+    "IdLocal": 870,
+    "Latitud": -17.168636416,
+    "Longitud": -71.790671184
+  },
+  {
+    "Total": 0,
+    "IdLocal": 871,
+    "Latitud": -16.388351,
+    "Longitud": -70.730125
+  },
+  {
+    "Total": 0,
+    "IdLocal": 873,
+    "Latitud": -16.648502,
+    "Longitud": -71.024055
+  },
+  {
+    "Total": 0,
+    "IdLocal": 875,
+    "Latitud": -16.757,
+    "Longitud": -71.17942
+  },
+  {
+    "Total": 0,
+    "IdLocal": 877,
+    "Latitud": -16.324114,
+    "Longitud": -70.738659
+  },
+  {
+    "Total": 0,
+    "IdLocal": 879,
+    "Latitud": -16.481118,
+    "Longitud": -70.826754
+  },
+  {
+    "Total": 0,
+    "IdLocal": 881,
+    "Latitud": -16.385731,
+    "Longitud": -70.855602
+  },
+  {
+    "Total": 0,
+    "IdLocal": 882,
+    "Latitud": -16.385731,
+    "Longitud": -70.855602
+  },
+  {
+    "Total": 0,
+    "IdLocal": 883,
+    "Latitud": -16.19514,
+    "Longitud": -70.67806
+  },
+  {
+    "Total": 0,
+    "IdLocal": 885,
+    "Latitud": -16.75081,
+    "Longitud": -70.68593
+  },
+  {
+    "Total": 0,
+    "IdLocal": 887,
+    "Latitud": -17.1953292959,
+    "Longitud": -70.9514213042
+  },
+  {
+    "Total": 0,
+    "IdLocal": 889,
+    "Latitud": -16.73935,
+    "Longitud": -70.68336
+  },
+  {
+    "Total": 0,
+    "IdLocal": 890,
+    "Latitud": -12.096428005,
+    "Longitud": -77.077998099
+  },
+  {
+    "Total": 0,
+    "IdLocal": 891,
+    "Latitud": -12.160597753,
+    "Longitud": -77.025793318
+  },
+  {
+    "Total": 0,
+    "IdLocal": 892,
+    "Latitud": -11.9847789,
+    "Longitud": -76.809623251
+  },
+  {
+    "Total": 0,
+    "IdLocal": 893,
+    "Latitud": -11.986643395,
+    "Longitud": -76.899016642
+  },
+  {
+    "Total": 0,
+    "IdLocal": 894,
+    "Latitud": -16.6017,
+    "Longitud": -72.7026
+  },
+  {
+    "Total": 0,
+    "IdLocal": 895,
+    "Latitud": -15.7701,
+    "Longitud": -73.3645
+  },
+  {
+    "Total": 0,
+    "IdLocal": 896,
+    "Latitud": -15.8574,
+    "Longitud": -74.2473
+  },
+  {
+    "Total": 0,
+    "IdLocal": 897,
+    "Latitud": -16.0938,
+    "Longitud": -72.4711
+  },
+  {
+    "Total": 0,
+    "IdLocal": 898,
+    "Latitud": -16.2264,
+    "Longitud": -72.4698
+  },
+  {
+    "Total": 0,
+    "IdLocal": 899,
+    "Latitud": -15.8405,
+    "Longitud": -72.6526
+  },
+  {
+    "Total": 0,
+    "IdLocal": 900,
+    "Latitud": -15.2137,
+    "Longitud": -72.8883
+  },
+  {
+    "Total": 0,
+    "IdLocal": 901,
+    "Latitud": -9.22177,
+    "Longitud": -75.8424
+  },
+  {
+    "Total": 0,
+    "IdLocal": 902,
+    "Latitud": -8.79036,
+    "Longitud": -76.2506
+  },
+  {
+    "Total": 0,
+    "IdLocal": 903,
+    "Latitud": -11.9747,
+    "Longitud": -75.257
+  },
+  {
+    "Total": 0,
+    "IdLocal": 904,
+    "Latitud": -12.0561,
+    "Longitud": -75.2543
+  },
+  {
+    "Total": 0,
+    "IdLocal": 905,
+    "Latitud": -10.7522,
+    "Longitud": -77.7574
+  },
+  {
+    "Total": 0,
+    "IdLocal": 906,
+    "Latitud": -10.695,
+    "Longitud": -77.7822
+  },
+  {
+    "Total": 0,
+    "IdLocal": 907,
+    "Latitud": -10.7955,
+    "Longitud": -77.7309
+  },
+  {
+    "Total": 0,
+    "IdLocal": 908,
+    "Latitud": -10.7983,
+    "Longitud": -77.7401
+  },
+  {
+    "Total": 0,
+    "IdLocal": 909,
+    "Latitud": -12.543,
+    "Longitud": -76.7222
+  },
+  {
+    "Total": 0,
+    "IdLocal": 910,
+    "Latitud": -12.4636,
+    "Longitud": -76.7483
+  },
+  {
+    "Total": 0,
+    "IdLocal": 911,
+    "Latitud": -13.0566,
+    "Longitud": -76.3535
+  },
+  {
+    "Total": 0,
+    "IdLocal": 912,
+    "Latitud": -13.0744,
+    "Longitud": -76.3731
+  },
+  {
+    "Total": 0,
+    "IdLocal": 913,
+    "Latitud": -13.0762,
+    "Longitud": -76.3893
+  },
+  {
+    "Total": 0,
+    "IdLocal": 914,
+    "Latitud": -11.8446,
+    "Longitud": -76.3857
+  },
+  {
+    "Total": 0,
+    "IdLocal": 915,
+    "Latitud": -11.095153,
+    "Longitud": -77606349
+  },
+  {
+    "Total": 0,
+    "IdLocal": 916,
+    "Latitud": -10.1513,
+    "Longitud": -76.9341
+  },
+  {
+    "Total": 0,
+    "IdLocal": 917,
+    "Latitud": -10.8329,
+    "Longitud": -77.5487
+  },
+  {
+    "Total": 0,
+    "IdLocal": 918,
+    "Latitud": -18.0396,
+    "Longitud": -70.2554
+  },
+  {
+    "Total": 0,
+    "IdLocal": 919,
+    "Latitud": -18.0053,
+    "Longitud": -70.2395
+  },
+  {
+    "Total": 0,
+    "IdLocal": 920,
+    "Latitud": -9.23573,
+    "Longitud": -76.0892
+  },
+  {
+    "Total": 0,
+    "IdLocal": 921,
+    "Latitud": -9.21527,
+    "Longitud": -76.2149
+  },
+  {
+    "Total": 0,
+    "IdLocal": 922,
+    "Latitud": -9.27351,
+    "Longitud": -76.3908
+  },
+  {
+    "Total": 0,
+    "IdLocal": 923,
+    "Latitud": -9.933,
+    "Longitud": -76.2472
+  },
+  {
+    "Total": 0,
+    "IdLocal": 924,
+    "Latitud": -9.18794,
+    "Longitud": -75.9541
+  },
+  {
+    "Total": 0,
+    "IdLocal": 925,
+    "Latitud": -9.29115,
+    "Longitud": -76.0084
+  },
+  {
+    "Total": 0,
+    "IdLocal": 926,
+    "Latitud": -9.40871,
+    "Longitud": -75.9723
+  },
+  {
+    "Total": 0,
+    "IdLocal": 927,
+    "Latitud": -9.44295,
+    "Longitud": -75.9715
+  },
+  {
+    "Total": 0,
+    "IdLocal": 928,
+    "Latitud": -8.75081,
+    "Longitud": -76.1197
+  },
+  {
+    "Total": 0,
+    "IdLocal": 929,
+    "Latitud": -9.07933,
+    "Longitud": -76.0636
+  },
+  {
+    "Total": 0,
+    "IdLocal": 930,
+    "Latitud": -9.08957,
+    "Longitud": -76.0949
+  },
+  {
+    "Total": 0,
+    "IdLocal": 931,
+    "Latitud": -9.05839,
+    "Longitud": -76.0758
+  },
+  {
+    "Total": 0,
+    "IdLocal": 932,
+    "Latitud": -8.65614,
+    "Longitud": -76.8755
+  },
+  {
+    "Total": 0,
+    "IdLocal": 933,
+    "Latitud": -8.48394,
+    "Longitud": -76.3856
+  },
+  {
+    "Total": 0,
+    "IdLocal": 934,
+    "Latitud": -8.60595,
+    "Longitud": -77.1976
+  },
+  {
+    "Total": 0,
+    "IdLocal": 935,
+    "Latitud": -8.76892,
+    "Longitud": -77.1884
+  },
+  {
+    "Total": 0,
+    "IdLocal": 936,
+    "Latitud": -8.65411,
+    "Longitud": -76.3159
+  },
+  {
+    "Total": 0,
+    "IdLocal": 937,
+    "Latitud": -15.3634,
+    "Longitud": -70.3636
+  },
+  {
+    "Total": 0,
+    "IdLocal": 938,
+    "Latitud": -13.441609718,
+    "Longitud": -76.084877518
+  },
+  {
+    "Total": 0,
+    "IdLocal": 939,
+    "Latitud": -13.40501007,
+    "Longitud": -76.130019598
+  },
+  {
+    "Total": 0,
+    "IdLocal": 940,
+    "Latitud": -14.504629643,
+    "Longitud": -75.254468771
+  },
+  {
+    "Total": 0,
+    "IdLocal": 941,
+    "Latitud": -13.732499367,
+    "Longitud": -76.221145973
+  },
+  {
+    "Total": 0,
+    "IdLocal": 942,
+    "Latitud": -16.749275,
+    "Longitud": -70.880412
+  },
+  {
+    "Total": 0,
+    "IdLocal": 943,
+    "Latitud": -16.19405,
+    "Longitud": -70.6806
+  },
+  {
+    "Total": 0,
+    "IdLocal": 944,
+    "Latitud": -17.1825,
+    "Longitud": -70.89829
+  },
+  {
+    "Total": 0,
+    "IdLocal": 945,
+    "Latitud": -17.18358,
+    "Longitud": -70.90417
+  },
+  {
+    "Total": 0,
+    "IdLocal": 946,
+    "Latitud": -17.204822,
+    "Longitud": -70.950704
+  },
+  {
+    "Total": 0,
+    "IdLocal": 947,
+    "Latitud": -17.211395,
+    "Longitud": -70.947442
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1587,
+    "Latitud": -9.044326468,
+    "Longitud": -77.806435022
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1621,
+    "Latitud": -12.0874204,
+    "Longitud": -77.0627227
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1622,
+    "Latitud": -14.8842942,
+    "Longitud": -70.5889612
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1623,
+    "Latitud": -6.4847098556,
+    "Longitud": -76.3779628834
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1624,
+    "Latitud": -72.3540958748,
+    "Longitud": -13.7380369691
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1625,
+    "Latitud": -14.9058630515,
+    "Longitud": -70.1964371187
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1626,
+    "Latitud": -14.9120861959,
+    "Longitud": -70.2019561065
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1627,
+    "Latitud": -14.4594038335,
+    "Longitud": -70.6496562011
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1628,
+    "Latitud": -15.6460428577,
+    "Longitud": -69.832876582
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1629,
+    "Latitud": -72.1749405334,
+    "Longitud": -13.9467898499
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1630,
+    "Latitud": -14.3916693946,
+    "Longitud": -70.1052109163
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1631,
+    "Latitud": -14.3138757651,
+    "Longitud": -70.1833141606
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1632,
+    "Latitud": -15.6198957551,
+    "Longitud": -70.346740951
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1633,
+    "Latitud": -14.986470596,
+    "Longitud": -70.1137151104
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1634,
+    "Latitud": -16.4885168668,
+    "Longitud": -72.0938410692
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1635,
+    "Latitud": -16.4489896621,
+    "Longitud": -71.921344877
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1636,
+    "Latitud": -16.4670439353,
+    "Longitud": -71.9364128793
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1637,
+    "Latitud": -15.501368,
+    "Longitud": -72.354669
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1638,
+    "Latitud": -15.7768353,
+    "Longitud": -72.8783432
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1639,
+    "Latitud": -15.1344,
+    "Longitud": -72.765
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1640,
+    "Latitud": -9.169799,
+    "Longitud": -76.751297
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1641,
+    "Latitud": -9.537473,
+    "Longitud": -76.815371
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1642,
+    "Latitud": -9.552233,
+    "Longitud": -76.82607
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1643,
+    "Latitud": -9.531641,
+    "Longitud": -76.834291
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1644,
+    "Latitud": -9.548294,
+    "Longitud": -76.817094
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1645,
+    "Latitud": -9.49936,
+    "Longitud": -76.8895
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1646,
+    "Latitud": -9.9380728,
+    "Longitud": -76.2427336
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1647,
+    "Latitud": -17.652678,
+    "Longitud": -71.336384
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1648,
+    "Latitud": -15.80118,
+    "Longitud": -70.34343
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1649,
+    "Latitud": -16.1504901,
+    "Longitud": -70.0662749
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1650,
+    "Latitud": -16.1394,
+    "Longitud": -70.3449
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1651,
+    "Latitud": -15.7954501385,
+    "Longitud": -70.1869858306
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1652,
+    "Latitud": -14.882693269,
+    "Longitud": -70.5876233094
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1653,
+    "Latitud": -14.3631560763,
+    "Longitud": -70.0237690606
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1654,
+    "Latitud": -14.2932500256,
+    "Longitud": -70.2939672808
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1656,
+    "Latitud": -14.8892143,
+    "Longitud": -70.1033295971
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1657,
+    "Latitud": -14.59434132,
+    "Longitud": -70.8528420944
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1658,
+    "Latitud": -14.3985764894,
+    "Longitud": -70.2739973177
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1660,
+    "Latitud": -15.1887478308,
+    "Longitud": -70.658813259
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1662,
+    "Latitud": -13.7545600116,
+    "Longitud": -69.7469116986
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1665,
+    "Latitud": -15.7662654,
+    "Longitud": -70.2587485
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1670,
+    "Latitud": -13.9895330637,
+    "Longitud": -70.0156931507
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1671,
+    "Latitud": -12.7835132,
+    "Longitud": -74.96889
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1673,
+    "Latitud": -15.1067927146,
+    "Longitud": -69.9790291967
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1677,
+    "Latitud": -14.9429404387,
+    "Longitud": -70.0912837964
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1678,
+    "Latitud": -12.7805044,
+    "Longitud": -74.9710371
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1679,
+    "Latitud": -12.7752111,
+    "Longitud": -74.9975256
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1680,
+    "Latitud": -12.9215304,
+    "Longitud": -74.7544717
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1681,
+    "Latitud": -12.9243208,
+    "Longitud": -74.710093
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1682,
+    "Latitud": -12.9332667,
+    "Longitud": -74.557905
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1683,
+    "Latitud": -12.9426103,
+    "Longitud": -74.5388361
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1684,
+    "Latitud": -72.4322801638,
+    "Longitud": -13.8365306211
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1685,
+    "Latitud": -12.944354,
+    "Longitud": -74.5377046
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1686,
+    "Latitud": -12.0484639,
+    "Longitud": -74.594108
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1687,
+    "Latitud": -12.116237,
+    "Longitud": -74.631323
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1688,
+    "Latitud": -12.2593568,
+    "Longitud": -75.0706046
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1689,
+    "Latitud": -12.1710875,
+    "Longitud": -74.9252038
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1690,
+    "Latitud": -12.2795195,
+    "Longitud": -74.938153
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1691,
+    "Latitud": -12.2530007,
+    "Longitud": -74.8835454
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1692,
+    "Latitud": -12.2733338,
+    "Longitud": -74.8410776
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1693,
+    "Latitud": -12.271185,
+    "Longitud": -74.962278
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1694,
+    "Latitud": -12.2906708,
+    "Longitud": -74.9116576
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1695,
+    "Latitud": -12.2631048,
+    "Longitud": -74.9696654
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1696,
+    "Latitud": -13.2833278,
+    "Longitud": -75.3191287
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1697,
+    "Latitud": -12.1026276,
+    "Longitud": -74.7513775
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1698,
+    "Latitud": -13.1262176,
+    "Longitud": -75.5420606
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1699,
+    "Latitud": -13.0345825,
+    "Longitud": -75.5702711
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1700,
+    "Latitud": -13.0739576,
+    "Longitud": -75.6447206
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1701,
+    "Latitud": -13.3816369,
+    "Longitud": -75.4323007
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1702,
+    "Latitud": -13.24679,
+    "Longitud": -75.534477
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1703,
+    "Latitud": -13.293113,
+    "Longitud": -75.5423734
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1704,
+    "Latitud": -13.3104654,
+    "Longitud": -75.4098033
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1705,
+    "Latitud": -11.9335,
+    "Longitud": -69.1164
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1706,
+    "Latitud": -12.1192,
+    "Longitud": -69.1198
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1707,
+    "Latitud": -12.2791,
+    "Longitud": -69.152
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1708,
+    "Latitud": -12.617719,
+    "Longitud": -70.391209
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1709,
+    "Latitud": -11.411278,
+    "Longitud": -69.489345
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1710,
+    "Latitud": -15.7464876629,
+    "Longitud": -70.0556593589
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1711,
+    "Latitud": -15.2003927337,
+    "Longitud": -69.7631713411
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1712,
+    "Latitud": -14.9989262958,
+    "Longitud": -69.8366985988
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1713,
+    "Latitud": -15.0079135277,
+    "Longitud": -69.9589225067
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1714,
+    "Latitud": -14.9797288568,
+    "Longitud": -69.7125398834
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1715,
+    "Latitud": -15.2148969902,
+    "Longitud": -69.6908182751
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1716,
+    "Latitud": -15.2106555462,
+    "Longitud": -69.6997983109
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1717,
+    "Latitud": -15.2331024173,
+    "Longitud": -69.5294284517
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1718,
+    "Latitud": -15.3573566588,
+    "Longitud": -69.5022072387
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1719,
+    "Latitud": -15.3089356961,
+    "Longitud": -69.4071758601
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1720,
+    "Latitud": -15.4583505556,
+    "Longitud": -69.4381454163
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1721,
+    "Latitud": -15.5143085328,
+    "Longitud": -69.3489566336
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1722,
+    "Latitud": -15.0160064958,
+    "Longitud": -69.3638419741
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1723,
+    "Latitud": -14.9157820037,
+    "Longitud": -69.8661461157
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1724,
+    "Latitud": -14.8910267698,
+    "Longitud": -69.7316119804
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1725,
+    "Latitud": -14.4899687402,
+    "Longitud": -69.2582303644
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1726,
+    "Latitud": -14.6776895711,
+    "Longitud": -69.5410671348
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1727,
+    "Latitud": -14.4237037586,
+    "Longitud": -69.3439413284
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1728,
+    "Latitud": -16.0870850067,
+    "Longitud": -69.638545953
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1729,
+    "Latitud": -16.7409186641,
+    "Longitud": -69.7145053059
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1730,
+    "Latitud": -16.072368382,
+    "Longitud": -69.505144029
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1731,
+    "Latitud": -15.6993747,
+    "Longitud": -70.6062699
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1732,
+    "Latitud": -10.9546668,
+    "Longitud": -69.5785925
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1733,
+    "Latitud": -12.5965526,
+    "Longitud": -69.1877143
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1734,
+    "Latitud": -12.5971631,
+    "Longitud": -69.1781553
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1735,
+    "Latitud": -15.453772,
+    "Longitud": -70.5999228
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1736,
+    "Latitud": -12.9255075,
+    "Longitud": -70.3031582
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1737,
+    "Latitud": -12.908392,
+    "Longitud": -70.1086474
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1738,
+    "Latitud": -12.993218,
+    "Longitud": -70.525004
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1739,
+    "Latitud": -12.835538,
+    "Longitud": -71.362186
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1740,
+    "Latitud": -16.1105164074,
+    "Longitud": -69.5542847804
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1743,
+    "Latitud": -16.0259500283,
+    "Longitud": -69.4503657877
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1744,
+    "Latitud": -15.9486,
+    "Longitud": -69.8332
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1745,
+    "Latitud": -15.7395127,
+    "Longitud": -73.8631845
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1749,
+    "Latitud": -15.7287103,
+    "Longitud": -72.4324595
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1750,
+    "Latitud": -9.09539,
+    "Longitud": -76.83772
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1751,
+    "Latitud": -9.038101,
+    "Longitud": -76.95809
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1752,
+    "Latitud": -9.421011,
+    "Longitud": -76.77053
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1753,
+    "Latitud": -9.538744,
+    "Longitud": -76.68888
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1754,
+    "Latitud": -9.533217,
+    "Longitud": -76.769603
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1755,
+    "Latitud": -9.538084,
+    "Longitud": -76.737695
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1756,
+    "Latitud": -9.244767,
+    "Longitud": -76.718543
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1757,
+    "Latitud": -9.496698,
+    "Longitud": -76.819212
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1758,
+    "Latitud": -76.81789,
+    "Longitud": -9.460352
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1759,
+    "Latitud": -9.429649,
+    "Longitud": -76.808662
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1760,
+    "Latitud": -9.367423,
+    "Longitud": -76.789725
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1761,
+    "Latitud": -9.3687,
+    "Longitud": -76.811392
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1762,
+    "Latitud": -9.391308,
+    "Longitud": -76.816114
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1763,
+    "Latitud": -14.7594270134,
+    "Longitud": -70.302422043
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1764,
+    "Latitud": -15.7674,
+    "Longitud": -69.6828
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1765,
+    "Latitud": -15.7230233,
+    "Longitud": -72.5019564
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1766,
+    "Latitud": -15.6505529,
+    "Longitud": -72.5055733
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1767,
+    "Latitud": -15.687581,
+    "Longitud": -70.143211
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1769,
+    "Latitud": -15.5708287921,
+    "Longitud": -69.9489193844
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1770,
+    "Latitud": -15.9486,
+    "Longitud": -69.8331
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1771,
+    "Latitud": -15.5051346385,
+    "Longitud": -72.8342186559
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1772,
+    "Latitud": -15.7757248128,
+    "Longitud": -72.8765407497
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1773,
+    "Latitud": -15.5477522735,
+    "Longitud": -72.9185900859
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1774,
+    "Latitud": -15.061,
+    "Longitud": -72.692
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1775,
+    "Latitud": -15.175,
+    "Longitud": -72.85028
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1776,
+    "Latitud": -5.8949179263,
+    "Longitud": -76.0958954602
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1782,
+    "Latitud": -4.8305776,
+    "Longitud": -76.5538924
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1783,
+    "Latitud": -3.4991911,
+    "Longitud": -73.0416369
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1784,
+    "Latitud": -3.4988221,
+    "Longitud": -73.0903846
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1785,
+    "Latitud": -4.0033291,
+    "Longitud": -73.157149
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1786,
+    "Latitud": -2.4502808,
+    "Longitud": -72.6675729
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1787,
+    "Latitud": -3.7633528,
+    "Longitud": -73.2563147
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1788,
+    "Latitud": -15.92953,
+    "Longitud": -69.88022
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1789,
+    "Latitud": -13.3877328,
+    "Longitud": -73.6899514
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1790,
+    "Latitud": -15.8944,
+    "Longitud": -69.88991
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1791,
+    "Latitud": -13.3339246,
+    "Longitud": -73.7373407
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1792,
+    "Latitud": -13.35514,
+    "Longitud": -73.6752316
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1793,
+    "Latitud": -13.4964677,
+    "Longitud": -73.8089532
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1794,
+    "Latitud": -6.7744722742,
+    "Longitud": -79.8483424787
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1795,
+    "Latitud": -5.0637003,
+    "Longitud": -73.8559375
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1796,
+    "Latitud": -13.7771627,
+    "Longitud": -70.3245145
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1797,
+    "Latitud": -5.9022652,
+    "Longitud": -76.1094344
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1798,
+    "Latitud": -5.8948138,
+    "Longitud": -76.1164384
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1799,
+    "Latitud": -5.8964973,
+    "Longitud": -76.1096889
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1800,
+    "Latitud": -15.264434,
+    "Longitud": -72.928704
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1802,
+    "Latitud": -3.9091249,
+    "Longitud": -70.517187
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1803,
+    "Latitud": -15.1886321854,
+    "Longitud": -72.9625723274
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1804,
+    "Latitud": -15.182662,
+    "Longitud": -72.905626
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1805,
+    "Latitud": -3.772718,
+    "Longitud": -73.2729904
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1806,
+    "Latitud": -15.128852,
+    "Longitud": -72.904693
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1807,
+    "Latitud": -15.221193,
+    "Longitud": -73.005286
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1808,
+    "Latitud": -15.240668,
+    "Longitud": -73.07034
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1809,
+    "Latitud": -15.274281,
+    "Longitud": -73.022063
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1810,
+    "Latitud": -15.319301,
+    "Longitud": -73.222588
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1811,
+    "Latitud": -15.35872,
+    "Longitud": -73.2364
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1812,
+    "Latitud": -6.7746017907,
+    "Longitud": -79.8304731386
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1813,
+    "Latitud": -6.7735063973,
+    "Longitud": -79.8448889931
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1814,
+    "Latitud": -6.7605212296,
+    "Longitud": -79.835724657
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1815,
+    "Latitud": -6.7905751677,
+    "Longitud": -79.841165136
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1816,
+    "Latitud": -6.7723344241,
+    "Longitud": -79.8424894535
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1817,
+    "Latitud": -6.6401440231,
+    "Longitud": -79.7919390705
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1818,
+    "Latitud": -6.6418127489,
+    "Longitud": -79.7875641758
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1819,
+    "Latitud": -6.7894990837,
+    "Longitud": -79.879137042
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1820,
+    "Latitud": -6.786617985,
+    "Longitud": -79.8797020474
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1821,
+    "Latitud": -6.8173960304,
+    "Longitud": -79.9124873216
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1822,
+    "Latitud": -6.7576937547,
+    "Longitud": -79.8608024146
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1823,
+    "Latitud": -6.7016776224,
+    "Longitud": -79.9105347312
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1824,
+    "Latitud": -6.8807379138,
+    "Longitud": -79.874262247
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1825,
+    "Latitud": -6.7365119624,
+    "Longitud": -79.6333925921
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1826,
+    "Latitud": -6.9183751603,
+    "Longitud": -79.5838363627
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1827,
+    "Latitud": -6.7454506081,
+    "Longitud": -79.701601447
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1828,
+    "Latitud": -6.8665313829,
+    "Longitud": -79.8200119508
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1829,
+    "Latitud": -6.6383961225,
+    "Longitud": -79.4688038416
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1830,
+    "Latitud": -6.8339936751,
+    "Longitud": -79.9318717041
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1831,
+    "Latitud": -6.7827465081,
+    "Longitud": -79.5709070399
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1832,
+    "Latitud": -6.7816363693,
+    "Longitud": -79.7693844131
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1833,
+    "Latitud": -6.719905397,
+    "Longitud": -79.7707060739
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1834,
+    "Latitud": -6.8459476308,
+    "Longitud": -79.3014221757
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1835,
+    "Latitud": -6.7706501973,
+    "Longitud": -79.9098831
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1836,
+    "Latitud": -6.2974541185,
+    "Longitud": -79.7849305557
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1837,
+    "Latitud": -6.4204175377,
+    "Longitud": -79.8456113803
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1838,
+    "Latitud": -6.4716395708,
+    "Longitud": -79.8532854441
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1839,
+    "Latitud": -6.5400119022,
+    "Longitud": -80.0145290168
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1840,
+    "Latitud": -6.5517938257,
+    "Longitud": -79.8670401235
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1841,
+    "Latitud": -6.5070301552,
+    "Longitud": -79.8579878614
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1842,
+    "Latitud": -5.9889977274,
+    "Longitud": -79.752370237
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1843,
+    "Latitud": -6.1542278962,
+    "Longitud": -79.7114939538
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1844,
+    "Latitud": -6.2740161709,
+    "Longitud": -79.6056667206
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1845,
+    "Latitud": -6.8629754881,
+    "Longitud": -79.8176295049
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1847,
+    "Latitud": -14.7591845,
+    "Longitud": -72.7400484
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1848,
+    "Latitud": -15.0599261,
+    "Longitud": -72.689841
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1849,
+    "Latitud": -15.1300318,
+    "Longitud": -72.8101567
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1850,
+    "Latitud": -15.548,
+    "Longitud": -72.918
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1851,
+    "Latitud": -15.6552,
+    "Longitud": -69.7176
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1852,
+    "Latitud": -13.5317968,
+    "Longitud": -73.676538
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1853,
+    "Latitud": -13.0143684,
+    "Longitud": -74.4445397
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1854,
+    "Latitud": -15.1157915793,
+    "Longitud": -69.9353306474
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1855,
+    "Latitud": -13.0143684,
+    "Longitud": -74.4445397
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1856,
+    "Latitud": -13.0143684,
+    "Longitud": -74.4445397
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1857,
+    "Latitud": -13.0143684,
+    "Longitud": -74.4445397
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1858,
+    "Latitud": -13.0143684,
+    "Longitud": -74.4445397
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1859,
+    "Latitud": -13.7953041,
+    "Longitud": -70.4697371
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1860,
+    "Latitud": -13.0143684,
+    "Longitud": -74.4445397
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1861,
+    "Latitud": -13.0143684,
+    "Longitud": -74.4445397
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1862,
+    "Latitud": -13.0143684,
+    "Longitud": -74.4445397
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1863,
+    "Latitud": -13.0143684,
+    "Longitud": -74.4445397
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1864,
+    "Latitud": -16.9943288207,
+    "Longitud": -69.70164
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1865,
+    "Latitud": -11.1148876097,
+    "Longitud": -77.6104822878
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1866,
+    "Latitud": -6.6281898,
+    "Longitud": -76.6530029
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1867,
+    "Latitud": -6.6281898,
+    "Longitud": -76.6530029
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1868,
+    "Latitud": -16.1372483476,
+    "Longitud": -69.5348617991
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1869,
+    "Latitud": -13.0755632,
+    "Longitud": -74.4106238
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1870,
+    "Latitud": -13.0758898,
+    "Longitud": -74.4408385
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1871,
+    "Latitud": -13.1129098,
+    "Longitud": -74.4187172
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1872,
+    "Latitud": -16.0332185411,
+    "Longitud": -69.4500107288
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1873,
+    "Latitud": -16.0943876506,
+    "Longitud": -69.508602715
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1874,
+    "Latitud": -16.0278187995,
+    "Longitud": -69.4586533002
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1875,
+    "Latitud": -11.4737853,
+    "Longitud": -77.2254471
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1876,
+    "Latitud": -11.4941667,
+    "Longitud": -77.2116667
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1877,
+    "Latitud": -16.1102698729,
+    "Longitud": -69.5539146355
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1878,
+    "Latitud": -16.0828348288,
+    "Longitud": -69.6382240879
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1879,
+    "Latitud": -15.7731313,
+    "Longitud": -73.9272948
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1880,
+    "Latitud": -15.756945,
+    "Longitud": -73.8885285
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1881,
+    "Latitud": -15.7409416,
+    "Longitud": -73.8638021
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1882,
+    "Latitud": -15.7198531,
+    "Longitud": -73.8423758
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1883,
+    "Latitud": -15.796083,
+    "Longitud": -74.36373
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1884,
+    "Latitud": -15.80891,
+    "Longitud": -74.36317
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1885,
+    "Latitud": -15.62586,
+    "Longitud": -73.79816
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1886,
+    "Latitud": -16.225602,
+    "Longitud": -73.615843
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1887,
+    "Latitud": -15.504247,
+    "Longitud": -73.478919
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1888,
+    "Latitud": -15.49986,
+    "Longitud": -73.613451
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1889,
+    "Latitud": -14.2318685,
+    "Longitud": -70.2242981
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1890,
+    "Latitud": -16.3178638,
+    "Longitud": -68.8549232
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1892,
+    "Latitud": -16.3998933,
+    "Longitud": -69.0405281
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1893,
+    "Latitud": -16.2701914,
+    "Longitud": -69.1775253
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1894,
+    "Latitud": -16.2297956,
+    "Longitud": -68.9883193
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1895,
+    "Latitud": -16.2007337,
+    "Longitud": -68.9623841
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1897,
+    "Latitud": -11.1145608371,
+    "Longitud": -77.6112204865
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1898,
+    "Latitud": -16.227869,
+    "Longitud": -68.9599205
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1899,
+    "Latitud": -10.968149429,
+    "Longitud": -75.8753238238
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1900,
+    "Latitud": -11.0219201,
+    "Longitud": -77.6382367
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1901,
+    "Latitud": -15.43919,
+    "Longitud": -74.61732
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1902,
+    "Latitud": -15.45062,
+    "Longitud": -74.65908
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1903,
+    "Latitud": -15.56976,
+    "Longitud": -74.85041
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1904,
+    "Latitud": -15.47754,
+    "Longitud": -74.442482
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1905,
+    "Latitud": -15.6597222,
+    "Longitud": -74.5263889
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1906,
+    "Latitud": -16.4346658,
+    "Longitud": -73.1071326
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1907,
+    "Latitud": -10.9171993989,
+    "Longitud": -76.0632293749
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1908,
+    "Latitud": -16.4003762,
+    "Longitud": -73.2217996
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1909,
+    "Latitud": -16.3870777,
+    "Longitud": -73.2501994
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1910,
+    "Latitud": -16.572903,
+    "Longitud": -72.714799
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1911,
+    "Latitud": -15.9823806,
+    "Longitud": -73.1695984
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1912,
+    "Latitud": -16.0315646,
+    "Longitud": -73.1741831
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1913,
+    "Latitud": -16.6009259,
+    "Longitud": -72.7535282
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1914,
+    "Latitud": -16.6195936,
+    "Longitud": -72.7357461
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1915,
+    "Latitud": -16.59935,
+    "Longitud": -72.77504
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1916,
+    "Latitud": -15.7081833,
+    "Longitud": -70.210421
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1917,
+    "Latitud": -15.651392,
+    "Longitud": -71.658195
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1918,
+    "Latitud": -15.6105009,
+    "Longitud": -71.8052954
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1919,
+    "Latitud": -15.643941,
+    "Longitud": -71.760869
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1920,
+    "Latitud": -15.6627675,
+    "Longitud": -71.6992231
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1921,
+    "Latitud": -15.6229677302,
+    "Longitud": -71.7684525769
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1922,
+    "Latitud": -15.6270444,
+    "Longitud": -71.6456361
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1923,
+    "Latitud": -15.650499,
+    "Longitud": -71.686724
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1924,
+    "Latitud": -10.954665,
+    "Longitud": -77.650021
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1925,
+    "Latitud": -11.0838208498,
+    "Longitud": -76.1471673695
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1926,
+    "Latitud": -15.50479,
+    "Longitud": -69.95844
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1927,
+    "Latitud": -13.4407616,
+    "Longitud": -70.4040579
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1928,
+    "Latitud": -14.06911,
+    "Longitud": -70.42984
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1929,
+    "Latitud": -15.2284232,
+    "Longitud": -71.3524524
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1930,
+    "Latitud": -15.4818624,
+    "Longitud": -71.474751
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1931,
+    "Latitud": -15.532206272,
+    "Longitud": -71.5493103418
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1932,
+    "Latitud": -15.6522032,
+    "Longitud": -71.6553963
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1933,
+    "Latitud": -15.7304196,
+    "Longitud": -72.1079707
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1934,
+    "Latitud": -15.5849842,
+    "Longitud": -71.9522687
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1935,
+    "Latitud": -15.5769088,
+    "Longitud": -72.1288175
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1936,
+    "Latitud": -15.9953664,
+    "Longitud": -71.8292272
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1937,
+    "Latitud": -16.0160491879,
+    "Longitud": -72.0155314132
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1938,
+    "Latitud": -15.8391800144,
+    "Longitud": -71.0909370328
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1939,
+    "Latitud": -15.1384427436,
+    "Longitud": -69.9336164698
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1940,
+    "Latitud": -13.8777525,
+    "Longitud": -70.2147497
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1941,
+    "Latitud": -16.3248104,
+    "Longitud": -69.0536826
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1942,
+    "Latitud": -15.829534,
+    "Longitud": -69.808565
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1943,
+    "Latitud": -16.5045267,
+    "Longitud": -71.3569475
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1944,
+    "Latitud": -16.5625727,
+    "Longitud": -71.3646986
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1945,
+    "Latitud": -16.1837802,
+    "Longitud": -71.0613829
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1946,
+    "Latitud": -15.4775509,
+    "Longitud": -70.1089949
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1947,
+    "Latitud": -15.4775102,
+    "Longitud": -70.1276261
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1948,
+    "Latitud": -15.4792495,
+    "Longitud": -70.1353381
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1949,
+    "Latitud": -15.4941683,
+    "Longitud": -70.1348358
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1950,
+    "Latitud": -15.5040953,
+    "Longitud": -70.1273095
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1951,
+    "Latitud": -15.4804849,
+    "Longitud": -70.1395193
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1952,
+    "Latitud": -11.8396398923,
+    "Longitud": -75.3035396884
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1953,
+    "Latitud": -15.1389698379,
+    "Longitud": -70.1104676148
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1954,
+    "Latitud": -15.4901827,
+    "Longitud": -70.1453573
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1955,
+    "Latitud": -15.4914791,
+    "Longitud": -70.1457129
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1956,
+    "Latitud": -15.5024348,
+    "Longitud": -70.1244126
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1957,
+    "Latitud": -15.4976437,
+    "Longitud": -70.1316648
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1958,
+    "Latitud": -16.3509986,
+    "Longitud": -71.5432731
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1959,
+    "Latitud": -16.4568575,
+    "Longitud": -71.5178814
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1960,
+    "Latitud": -15.7131,
+    "Longitud": -72.5731
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1961,
+    "Latitud": -15.6569,
+    "Longitud": -72.5253
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1962,
+    "Latitud": -10.3928065326,
+    "Longitud": -77.0795316613
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1963,
+    "Latitud": -10.42233,
+    "Longitud": -77.09004
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1964,
+    "Latitud": -10.62121,
+    "Longitud": -77.03944
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1965,
+    "Latitud": -10.54698,
+    "Longitud": -77.11379
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1966,
+    "Latitud": -15.61483,
+    "Longitud": -69.97326
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1967,
+    "Latitud": -10.4735321497,
+    "Longitud": -76.4081101084
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1968,
+    "Latitud": -10.3707129407,
+    "Longitud": -76.4438520659
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1969,
+    "Latitud": -14.490543432,
+    "Longitud": -70.2474461307
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1970,
+    "Latitud": -16.2469912,
+    "Longitud": -69.0905347
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1971,
+    "Latitud": -16.2464397,
+    "Longitud": -69.0912648
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1972,
+    "Latitud": -16.2401121,
+    "Longitud": -69.0245516
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1973,
+    "Latitud": -16.3020972,
+    "Longitud": -69.0690889
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1974,
+    "Latitud": -16.2529846,
+    "Longitud": -69.0498383
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1975,
+    "Latitud": -16.2306372,
+    "Longitud": -69.0469564
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1976,
+    "Latitud": -16.2619621,
+    "Longitud": -69.0354289
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1977,
+    "Latitud": -16.3441921,
+    "Longitud": -69.0302744
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1978,
+    "Latitud": -16.2666887,
+    "Longitud": -69.1554941
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1979,
+    "Latitud": -10.4341077656,
+    "Longitud": -76.437471844
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1980,
+    "Latitud": -10.4413838428,
+    "Longitud": -76.4955673191
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1981,
+    "Latitud": -10.474809055,
+    "Longitud": -76.3534512107
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1982,
+    "Latitud": -10.4495576609,
+    "Longitud": -76.4635841556
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1983,
+    "Latitud": -10.4806246452,
+    "Longitud": -76.4467202146
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1984,
+    "Latitud": -10.4927230324,
+    "Longitud": -76.5156440783
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1985,
+    "Latitud": -6.6129002,
+    "Longitud": -76.7290515
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1986,
+    "Latitud": -6.7369374,
+    "Longitud": -76.5937614
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1987,
+    "Latitud": -10.6029538565,
+    "Longitud": -75.4377800675
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1988,
+    "Latitud": -9.8469115,
+    "Longitud": -75.0180914
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1989,
+    "Latitud": -8.884071,
+    "Longitud": -77.12158
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1990,
+    "Latitud": -9.8562037,
+    "Longitud": -75.0166715
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1991,
+    "Latitud": -10.4252,
+    "Longitud": -75.5271048
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1992,
+    "Latitud": -10.5750358,
+    "Longitud": -75.4038497
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1993,
+    "Latitud": -10.2968608,
+    "Longitud": -74.9398748
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1994,
+    "Latitud": -10.7418486,
+    "Longitud": -75.27586
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1995,
+    "Latitud": -10.7349057,
+    "Longitud": -75.2679061
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1996,
+    "Latitud": -10.6839028745,
+    "Longitud": -76.2528647061
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1997,
+    "Latitud": -16.1299519761,
+    "Longitud": -69.5227670895
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1998,
+    "Latitud": -10.83688,
+    "Longitud": -76.23967
+  },
+  {
+    "Total": 0,
+    "IdLocal": 1999,
+    "Latitud": -10.4154266,
+    "Longitud": -76.2354289
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2000,
+    "Latitud": -10.7724646,
+    "Longitud": -75.8086649
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2001,
+    "Latitud": -10.5737744,
+    "Longitud": -76.2363248
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2002,
+    "Latitud": -10.6403301,
+    "Longitud": -76.3256947
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2003,
+    "Latitud": -10.5341435214,
+    "Longitud": -76.1650418922
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2004,
+    "Latitud": -10.7593211,
+    "Longitud": -76.2606891
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2005,
+    "Latitud": -10.7856599,
+    "Longitud": -76.2435876
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2006,
+    "Latitud": -10.8410952,
+    "Longitud": -76.2361144
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2007,
+    "Latitud": -10.6702844806,
+    "Longitud": -76.2507669448
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2008,
+    "Latitud": -8.863101,
+    "Longitud": -77.142301
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2009,
+    "Latitud": -13.6159766,
+    "Longitud": -73.6850415
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2010,
+    "Latitud": -14.9082709615,
+    "Longitud": -70.199803291
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2011,
+    "Latitud": -15.8413917743,
+    "Longitud": -70.0296370067
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2013,
+    "Latitud": -12.0785298,
+    "Longitud": -77.037276
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2014,
+    "Latitud": -12.0481851273,
+    "Longitud": -75.2230732327
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2015,
+    "Latitud": -11.9807645823,
+    "Longitud": -75.459282314
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2016,
+    "Latitud": -10.7137993106,
+    "Longitud": -76.9415808281
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2017,
+    "Latitud": -15.6543947794,
+    "Longitud": -72.5341834762
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2018,
+    "Latitud": -6.791309,
+    "Longitud": -79.841016
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2019,
+    "Latitud": -5.182078,
+    "Longitud": -80.63461
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2020,
+    "Latitud": -12.112633,
+    "Longitud": -77032831
+  },
+  {
+    "Total": 0,
+    "IdLocal": 2021,
+    "Latitud": -16.4010371,
+    "Longitud": -71.5246372
+  }
+]

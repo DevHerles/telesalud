@@ -11,6 +11,8 @@ __all__ = (
     "department_collections_point",
     "province_collections_point",
     "district_collections_point",
+    "eess_collections",
+    "point_collections",
 )
 
 client = MongoClient(settings.uri)
@@ -32,3 +34,8 @@ province_collections_point: Collection = client[settings.database][
 
 district_collections_point: Collection = client[settings.database][
     settings.district_collections_point]
+
+eess_collections: Collection = client[settings.database][
+    settings.eess_collections]
+point_collections: Collection = client[settings.database][
+    settings.point_collections]
