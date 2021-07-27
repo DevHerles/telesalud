@@ -10,6 +10,7 @@ from ..database import (
     department_collections_point as collection_points,
 )
 from ..exceptions.exception import DepartmentNotFoundException
+from ..schemas.serializer import serializerList
 
 
 class DepartmentRepository:
@@ -54,6 +55,12 @@ class DepartmentRepository:
         """Retrieve all the available departments"""
         cursor = collection.find().sort([("code", 1)])
         return [DepartmentRead(**document) for document in cursor]
+
+    @staticmethod
+    def list2():
+        """Retrieve all the available departments"""
+        cursor = collection.find().sort([("code", 1)])
+        return serializerList(cursor)
 
     @staticmethod
     def create(create: DepartmentCreate) -> DepartmentRead:

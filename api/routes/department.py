@@ -59,6 +59,17 @@ def list_departments():
     return {"Data": _departments}
 
 
+@router.get(
+    "/departments2",
+    response_model=DepartmentsRead,
+    description="List all available departments",
+    tags=["departments"],
+)
+def list_departments2():
+    departments = DepartmentRepository.list2()
+    return departments
+
+
 @router.post(
     "/departments",
     description="Create a new department",
