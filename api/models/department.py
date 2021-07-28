@@ -28,27 +28,9 @@ class DepartmentPointRead(DepartmentPoint):
     pass
 
 
-class DepartmentUpdate(BaseModel):
+class Department(BaseModel):
     code: str = DepartmentFields.code
     name: str = DepartmentFields.name
 
 
-class Department(DepartmentUpdate):
-    pass
-
-
-class DepartmentCreate(DepartmentUpdate):
-    pass
-
-
-class DepartmentRead(DepartmentCreate):
-    """Body of Department GET and POST responses"""
-    code: str = DepartmentFields.code
-    name: str = DepartmentFields.name
-
-    class Config(DepartmentCreate.Config):
-        extra = pydantic.Extra.ignore
-
-
-DepartmentsRead = List[DepartmentRead]
 DepartmentsPoint = List[DepartmentPoint]

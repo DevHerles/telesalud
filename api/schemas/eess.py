@@ -32,3 +32,62 @@ def eessEntity(item) -> dict:
         "Categoria": item["category"],
         "FiltroTipo": 0
     }
+
+
+def districtPointEntity(item) -> dict:
+    return {
+        "IdDepartmento": item["department"],
+        "IdProvincia": item["province"],
+        "IdDistrito": item["district"],
+        "Total": 0,
+        "IdLocal": item["code"],
+        "Latitud": item["latitude"],
+        "Longitud": item["longitude"]
+    }
+
+
+def districtPointsEntity(entity) -> list:
+    return [districtPointEntity(item) for item in entity]
+
+
+def provincePointEntity(item) -> dict:
+    return {
+        "IdDepartmento": item["department"],
+        "IdProvincia": item["province"],
+        "Total": 0,
+        "IdLocal": item["code"],
+        "Latitud": item["latitude"],
+        "Longitud": item["longitude"]
+    }
+
+
+def provincePointsEntity(entity) -> list:
+    return [provincePointEntity(item) for item in entity]
+
+
+def departmentPointEntity(item) -> dict:
+    return {
+        "IdDepartmento": item["department"],
+        "Total": 0,
+        "IdLocal": item["code"],
+        "Latitud": item["latitude"],
+        "Longitud": item["longitude"]
+    }
+
+
+def departmentPointsEntity(entity) -> list:
+    return [departmentPointEntity(item) for item in entity]
+
+
+def departmentEntity(item) -> dict:
+    print(item)
+    print("xxxxxx")
+    return {
+        "IdDepartmento": item["department"]["code"],
+        "NombDep": item["department"]["name"],
+        "DisaCodigo": 0
+    }
+
+
+def departmentEntityList(entity) -> list:
+    return [departmentEntity(item) for item in entity]

@@ -31,6 +31,7 @@ class MongoSettings(BaseSettings):
     province_collections_point: str = "provinces_point"
     district_collections_point: str = "districts_point"
     eess_collections: str = "eess"
+    eess_base_collections: str = "eess_base"
     point_collections: str = "points"
 
     class Config(BaseSettings.Config):

@@ -37,5 +37,7 @@ district_collections_point: Collection = client[settings.database][
 
 eess_collections: Collection = client[settings.database][
     settings.eess_collections]
+eess_base_collections: Collection = client[settings.database][
+    settings.eess_base_collections]
 point_collections: Collection = client[settings.database][
     settings.point_collections]

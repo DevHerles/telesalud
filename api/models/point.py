@@ -7,33 +7,45 @@ from ..fields.department import DepartmentFields
 from ..fields.province import ProvinceFields
 from ..fields.district import DistrictFields
 __all__ = (
-    "PointUpdate",
-    "PointRead",
-    "PointCreate",
-    "PointsRead",
     "PointSearch",
 )
 
 
-class PointUpdate(BaseModel):
+class EessPoints(BaseModel):
     Total: int = LocationFields.total
-    IdLocal: int = EessFields.IdLocal
+    IdLocal: str = EessFields.IdLocal
     Latitud: float = LocationFields.latitude
     Longitud: float = LocationFields.longitude
 
 
-class PointCreate(PointUpdate):
-    pass
+class DepartmentPoints(BaseModel):
+    IdDepartamento: str = EessFields.department_code,
+    Total: int = LocationFields.total
+    IdLocal: str = EessFields.IdLocal
+    Latitud: float = LocationFields.latitude
+    Longitud: float = LocationFields.longitude
 
 
-class PointRead(PointCreate):
-    pass
+class ProvincePoints(BaseModel):
+    IdDepartamento: str = EessFields.department_code,
+    IdProvincia: str = EessFields.province_code,
+    Total: int = LocationFields.total
+    IdLocal: str = EessFields.IdLocal
+    Latitud: float = LocationFields.latitude
+    Longitud: float = LocationFields.longitude
+
+
+class DistrictPoints(BaseModel):
+    IdDepartamento: str = EessFields.department_code,
+    IdProvincia: str = EessFields.province_code,
+    IdDistrito: str = EessFields.district_code,
+    Total: int = LocationFields.total
+    IdLocal: str = EessFields.IdLocal
+    Latitud: float = LocationFields.latitude
+    Longitud: float = LocationFields.longitude
 
 
 class PointSearch(BaseModel):
     IdDepartamento: Optional[str]
     IdProvincia: Optional[str]
     IdDistrito: Optional[str]
-
-
-PointsRead = List[PointRead]

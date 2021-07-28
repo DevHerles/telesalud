@@ -2,6 +2,9 @@ from typing import List, Optional
 import pydantic
 
 from ..models.common import BaseModel
+from ..models.department import Department
+from ..models.province import Province
+from ..models.district import District
 from ..fields.eess import EessFields
 from ..fields.location import LocationFields
 __all__ = (
@@ -12,12 +15,31 @@ __all__ = (
 )
 
 
+class EessBase(BaseModel):
+    code: str = EessFields.code
+    name: str = EessFields.name
+    department: Department
+    province: Province
+    district: District
+    district_code: str = EessFields.district_code
+    category: str = EessFields.category
+    institution: str = EessFields.institution
+    latitude: float = EessFields.latitude
+    longitude: float = EessFields.longitude
+    address: str = EessFields.address
+    business_hours: str = EessFields.business_hours
+    phone: str = EessFields.phone
+
+
 class EessCreate(BaseModel):
     code: str = EessFields.code
     name: str = EessFields.name
     department: str = EessFields.department
+    department_code: str = EessFields.department_code
     province: str = EessFields.province
+    province_code: str = EessFields.province_code
     district: str = EessFields.district
+    district_code: str = EessFields.district_code
     category: str = EessFields.category
     institution: str = EessFields.institution
     latitude: float = EessFields.latitude
@@ -28,7 +50,7 @@ class EessCreate(BaseModel):
 
 
 class EessRead(BaseModel):
-    IdLocal: int = EessFields.code
+    IdLocal: str = EessFields.code
     NombreLocal: str = EessFields.name
     DireccionLocal: str = EessFields.address
     LatitudLocal: float = EessFields.latitude
@@ -53,7 +75,7 @@ class EessSearch(BaseModel):
 
 class EessPointRead(BaseModel):
     Total: int = LocationFields.total
-    IdLocal: int = EessFields.IdLocal
+    IdLocal: str = EessFields.IdLocal
     Latitud: float = LocationFields.latitude
     Longitud: float = LocationFields.longitude
 
@@ -62,6 +84,44 @@ class EessPointSearch(BaseModel):
     IdDepartamento: Optional[str]
     IdProvincia: Optional[str]
     IdDistrito: Optional[str]
+
+
+class DepartmentsList(BaseModel):
+    IdDepartamento: str
+    NombDep: str
+    DisaCodigo: int
+
+
+class ProvincesList(BaseModel):
+    IdProvincia: str
+    NombProv: str
+    DisaCodigo: int
+
+
+class DistrictsList(BaseModel):
+    IdDistrito: str
+    NombDis: str
+    DisaCodigo: int
+
+
+class ProvincePointSearch(BaseModel):
+    IdDepartamento: Optional[str]
+    IdProvincia: Optional[str]
+
+
+class ProvinceSearch(BaseModel):
+    DisaCodigo: Optional[int]
+    IdDepartamento: Optional[str]
+
+
+class DistrictSearch(BaseModel):
+    DisaCodigo: Optional[int]
+    IdDepartamento: Optional[str]
+    IdProvincia: Optional[str]
+
+
+class DistrictPointSearch(EessPointSearch):
+    pass
 
 
 EesssRead = List[EessRead]

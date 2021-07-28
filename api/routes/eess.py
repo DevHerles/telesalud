@@ -10,8 +10,13 @@ from ..models.eess import (
     EessSearch,
     EessPointsRead,
     EessPointSearch,
+    ProvincePointSearch,
+    DistrictPointSearch,
+    EessBase,
+    ProvinceSearch,
+    DistrictSearch,
 )
-from ..models.point import (PointSearch, PointsRead)
+from ..models.point import (PointSearch)
 __all__ = ("router")
 
 router = APIRouter()
@@ -23,7 +28,7 @@ router = APIRouter()
     tags=["points"],
 )
 def search_eess_point(data: EessSearch):
-    return {"Data": [EessRespository.search(data)]}
+    return {"Data": [EessRespository.search(data)], "Success": True}
 
 
 @router.post(
@@ -32,5 +37,69 @@ def search_eess_point(data: EessSearch):
     # response_model=EessPointsRead,
     tags=["demo"],
 )
-def listEessPoints(data: EessPointSearch):
-    return {"Data": EessRespository.listEessPoints()}
+def listEessPoints(search: EessPointSearch):
+    return {"Data": EessRespository.listEessPoints(search)}
+
+
+@router.post(
+    "/api/CentroVacunacionGis/DepartamentoPuntos",
+    tags=["layers"],
+)
+def listDepartmentPoints(department_code: str = "00"):
+    return {"Data": EessRespository.listDepartmentPoints(department_code)}
+
+
+@router.post(
+    "/api/CentroVacunacionGis/ProvinciasPuntos",
+    tags=["layers"],
+)
+def listProvincePoints(search: ProvincePointSearch):
+    return {"Data": EessRespository.listProvincePoints(search)}
+
+
+@router.post(
+    "/api/CentroVacunacionGis/DistritosPuntos",
+    tags=["layers"],
+)
+def listDistrictPoints(search: DistrictPointSearch):
+    return {"Data": EessRespository.listDistrictPoints(search)}
+
+
+@router.post(
+    "/api/eess",
+    tags=["EESS"],
+)
+def postEess(eess: EessBase):
+    return EessRespository.eessCreate(eess)
+
+
+@router.post(
+    "/api/CentroVacunacionGis/Puntos",
+    tags=["layers"],
+)
+def listEess(search: PointSearch):
+    return EessRespository.listEessPoints(search)
+
+
+@router.post(
+    "/api/Departamento/Listar",
+    tags=["list"],
+)
+def listDepartments(disa_codigo: int = 0):
+    return {"Data": EessRespository.listDepartments(disa_codigo)}
+
+
+@router.post(
+    "/api/Provincia/Listar",
+    tags=["list"],
+)
+def listProvinces(search: ProvinceSearch):
+    return {"Data": EessRespository.listProvinces(search)}
+
+
+@router.post(
+    "/api/Distrito/Listar",
+    tags=["list"],
+)
+def listDistricts(search: DistrictSearch):
+    return {"Data": EessRespository.listDistricts(search)}

@@ -26,8 +26,11 @@ class EessFields:
     institution = Field(description="EESS institution", example="MINSA")
     category = Field(description="EESS Category", example="I-2")
     department = Field(description="EESS Department", example="LIMA")
+    department_code = Field(description="Department code", example="15")
     province = Field(description="EESS Province", example="LIMA")
+    province_code = Field(description="Province code", example="01")
     district = Field(description="EESS District", example="CHACLACAYO")
+    district_code = Field(description="District code", example="01")
     latitude = Field(description="EESS latitude", example=-11.9847789)
     longitude = Field(description="EESS longitude", example=-76.809623251)
     business_hours = Field(description="EESS business hours",
