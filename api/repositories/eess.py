@@ -1,3 +1,4 @@
+from fastapi.responses import JSONResponse
 from ..models.eess import (
     EessRead,
     EessCreate,
@@ -114,7 +115,11 @@ class EessRespository:
     @staticmethod
     def listDepartments(disa_codigo: int):
         """Retrieve all available EESS points"""
-        eess = collection_base.find()
+        fields = {
+            "department": 1,
+            "_id": 0,
+        }
+        eess = collection_base.find({}, fields)
         departments = [
             DepartmentsList(IdDepartamento=row["department"]["code"],
                             NombDep=row["department"]["name"],
@@ -125,7 +130,11 @@ class EessRespository:
     @staticmethod
     def listProvinces(search: ProvinceSearch):
         """Retrieve all available EESS points"""
-        eess = collection_base.find()
+        fields = {
+            "province": 1,
+            "_id": 0,
+        }
+        eess = collection_base.find({}, fields)
         departments = [
             ProvincesList(IdProvincia=row["province"]["code"],
                           NombProv=row["province"]["name"],
@@ -136,7 +145,11 @@ class EessRespository:
     @staticmethod
     def listDistricts(search: DistrictSearch):
         """Retrieve all available EESS points"""
-        eess = collection_base.find()
+        fields = {
+            "district": 1,
+            "_id": 0,
+        }
+        eess = collection_base.find({}, fields)
         departments = [
             DistrictsList(IdDistrito=row["district"]["code"],
                           NombDis=row["district"]["name"],
@@ -147,7 +160,13 @@ class EessRespository:
     @staticmethod
     def listEessPoints(search: PointSearch) -> EessPoints:
         """Retrieve all available EESS points"""
-        eess = collection_base.find()
+        fields = {
+            "code": 1,
+            "latitude": 1,
+            "longitude": 1,
+            "_id": 0,
+        }
+        eess = collection_base.find({}, fields)
         eess_points = [
             EessPoints(Total=0,
                        IdLocal=row["code"],
@@ -159,13 +178,72 @@ class EessRespository:
     @staticmethod
     def listDepartmentPoints(department_code: str) -> DepartmentPoints:
         """Retrieve all available Departments points"""
+        fields = {
+            "department.code": 1,
+            "code": 1,
+            "latitude": 1,
+            "longitude": 1,
+            "_id": 0,
+        }
         if department_code != "00":
-            eess = collection_base.find({"department.code": department_code})
+            # eess = collection_base.find(
+            #     {"department.code": department_code},
+            #     fields,
+            # )
+            eess = collection_base.aggregate([
+                {
+                    "$match": {
+                        "department.code": department_code
+                    },
+                },
+                {
+                    "$group": {
+                        "_id": "$department.code",
+                        "department": {
+                            "$first": "$department.code"
+                        },
+                        "code": {
+                            "$first": "$code"
+                        },
+                        "total": {
+                            "$sum": 1
+                        },
+                        "latitude": {
+                            "$first": "$latitude"
+                        },
+                        "longitude": {
+                            "$first": "$longitude"
+                        },
+                    },
+                },
+            ])
         else:
-            eess = collection_base.find()
+            # eess = collection_base.find({}, fields)
+            eess = collection_base.aggregate([
+                {
+                    "$group": {
+                        "_id": "$department.code",
+                        "department": {
+                            "$first": "$department.code"
+                        },
+                        "code": {
+                            "$first": "$code"
+                        },
+                        "total": {
+                            "$sum": 1
+                        },
+                        "latitude": {
+                            "$first": "$latitude"
+                        },
+                        "longitude": {
+                            "$first": "$longitude"
+                        },
+                    },
+                },
+            ])
         department_points = [
-            DepartmentPoints(IdDepartamento=row["department"]["code"],
-                             Total=0,
+            DepartmentPoints(IdDepartamento=row["department"],
+                             Total=row["total"],
                              IdLocal=row["code"],
                              Latitud=row["latitude"],
                              Longitud=row["longitude"]) for row in eess
@@ -175,11 +253,43 @@ class EessRespository:
     @staticmethod
     def listProvincePoints(search: ProvincePointSearch) -> ProvincePoints:
         """Retrieve all available Provinces potins"""
-        eess = collection_base.find()
+        fields = {
+            "department.code": 1,
+            "province.code": 1,
+            "code": 1,
+            "latitude": 1,
+            "longitude": 1,
+            "_id": 0,
+        }
+        eess = collection_base.aggregate([
+            {
+                "$group": {
+                    "_id": "$department.code",
+                    "department": {
+                        "$first": "$department.code"
+                    },
+                    "province": {
+                        "$first": "$province.code"
+                    },
+                    "code": {
+                        "$first": "$code"
+                    },
+                    "total": {
+                        "$sum": 1
+                    },
+                    "latitude": {
+                        "$first": "$latitude"
+                    },
+                    "longitude": {
+                        "$first": "$longitude"
+                    },
+                },
+            },
+        ])
         province_points = [
-            ProvincePoints(IdDepartamento=row["department"]["code"],
-                           IdProvincia=row["province"]["code"],
-                           Total=0,
+            ProvincePoints(IdDepartamento=row["department"],
+                           IdProvincia=row["province"],
+                           Total=row["total"],
                            IdLocal=row["code"],
                            Latitud=row["latitude"],
                            Longitud=row["longitude"]) for row in eess
@@ -189,12 +299,49 @@ class EessRespository:
     @staticmethod
     def listDistrictPoints(search: DistrictPointSearch) -> DistrictPoints:
         """Retrieve all available Districts points"""
-        eess = collection_base.find()
+        fields = {
+            "department.code": 1,
+            "province.code": 1,
+            "district.code": 1,
+            "code": 1,
+            "latitude": 1,
+            "longitude": 1,
+            "_id": 0,
+        }
+        # eess = collection_base.find({}, fields)
+        eess = collection_base.aggregate([
+            {
+                "$group": {
+                    "_id": "$department.code",
+                    "department": {
+                        "$first": "$department.code"
+                    },
+                    "province": {
+                        "$first": "$province.code"
+                    },
+                    "district": {
+                        "$first": "$district.code"
+                    },
+                    "code": {
+                        "$first": "$code"
+                    },
+                    "total": {
+                        "$sum": 1
+                    },
+                    "latitude": {
+                        "$first": "$latitude"
+                    },
+                    "longitude": {
+                        "$first": "$longitude"
+                    },
+                },
+            },
+        ])
         district_points = [
-            DistrictPoints(IdDepartamento=row["department"]["code"],
-                           IdProvincia=row["province"]["code"],
-                           IdDistrito=row["district"]["code"],
-                           Total=0,
+            DistrictPoints(IdDepartamento=row["department"],
+                           IdProvincia=row["province"],
+                           IdDistrito=row["district"],
+                           Total=row["total"],
                            IdLocal=row["code"],
                            Latitud=row["latitude"],
                            Longitud=row["longitude"]) for row in eess
