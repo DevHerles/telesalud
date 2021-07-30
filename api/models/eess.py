@@ -5,6 +5,7 @@ from ..models.common import BaseModel
 from ..models.department import Department
 from ..models.province import Province
 from ..models.district import District
+from ..models.institution import Institution
 from ..fields.eess import EessFields
 from ..fields.location import LocationFields
 __all__ = (
@@ -21,9 +22,8 @@ class EessBase(BaseModel):
     department: Department
     province: Province
     district: District
-    district_code: str = EessFields.district_code
+    institution: Institution
     category: str = EessFields.category
-    institution: str = EessFields.institution
     latitude: float = EessFields.latitude
     longitude: float = EessFields.longitude
     address: str = EessFields.address

@@ -1,6 +1,10 @@
 from fastapi import APIRouter
+from pydantic import BaseModel
 from fastapi import status as statuscode
+from fastapi.responses import JSONResponse
+from fastapi.encoders import jsonable_encoder
 
+from ..exceptions.exception import EessNotFoundException
 from api.repositories.eess import EessRespository
 from ..models.eess import (
     EesssRead,
@@ -22,13 +26,40 @@ __all__ = ("router")
 router = APIRouter()
 
 
+class ResponseValue(BaseModel):
+    message: str
+
+
+class APIResponse():
+    @staticmethod
+    def error(value: ResponseValue):
+        return {
+            "Data": {
+                "message": value.message,
+                "Success": False,
+            }
+        }
+
+    @staticmethod
+    def success(value: list):
+        return {
+            "Data": value,
+            "Success": True,
+        }
+
+
 @router.post(
     '/api/CentroVacunacionGis/Buscar',
     description="Get a EESS by its unique ID",
     tags=["points"],
 )
 def search_eess_point(data: EessSearch):
-    return {"Data": [EessRespository.search(data)], "Success": True}
+    try:
+        return APIResponse.success([EessRespository.search(data)])
+    except EessNotFoundException as identifier:
+        response = APIResponse.error(
+            ResponseValue(message=identifier.message, ))
+        return JSONResponse(content=response, status_code=404)
 
 
 @router.post(
