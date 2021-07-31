@@ -7,4 +7,3 @@ _string = dict(min_length=2)
 class DepartmentFields:
     code = Field(description="Department code", example="01", **_string)
     name = Field(description="Department name", example="AMAZONAS", **_string)
-    total = Field(description="Total", example=20)

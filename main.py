@@ -37,7 +37,6 @@ async def validation_exception_handler(request: Request,
     for error in errors:
         if not isinstance(error["loc"][1], int):
             extrafields += f'{error["loc"][1]}, '
-    print(extrafields)
     return JSONResponse(
         status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
         content=jsonable_encoder({

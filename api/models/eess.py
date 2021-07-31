@@ -8,12 +8,6 @@ from ..models.district import District
 from ..models.institution import Institution
 from ..fields.eess import EessFields
 from ..fields.location import LocationFields
-__all__ = (
-    "EessUpdate",
-    "EessRead",
-    "EessCreate",
-    "EesssRead",
-)
 
 
 class EessBase(BaseModel):
@@ -75,7 +69,7 @@ class EessSearch(BaseModel):
 
 class EessPointRead(BaseModel):
     Total: int = LocationFields.total
-    IdLocal: str = EessFields.IdLocal
+    IdLocal: str = EessFields.code
     Latitud: float = LocationFields.latitude
     Longitud: float = LocationFields.longitude
 
