@@ -62,7 +62,7 @@ class EessRespository:
             "ProvinciaNombreLocal": document["province"]["name"],
             "DistritoNombreLocal": document["district"]["name"],
             "HorarioLocal": document["business_hours"],
-            "Institucion": document["institution"],
+            "Institucion": document["institution"]["name"],
             "TelefonoLocal": document["phone"],
             "Categoria": document["category"],
             "FiltroTipo": 0
